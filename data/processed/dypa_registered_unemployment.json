@@ -1,0 +1,47 @@
+{
+  "source": {
+    "page_url": "https://www.dypa.gov.gr/statistika",
+    "table_label": "Στοιχεία ανέργων και επιδοτούμενων",
+    "table_url": "https://www.dypa.gov.gr/storage/statistika-stoikheia/pinakes-ianuariu-2026.xlsx"
+  },
+  "period": "2026-01",
+  "report_title": "ΣΤΟΙΧΕΙΑ ΟΠΣ-Δ.ΥΠ.Α. ΙΑΝΟΥΑΡΙΟΣ 2026 (Ημερ/νία λήψης στοιχείων 02/02/2026)",
+  "registered_over_12_months": 417293,
+  "registered_under_12_months": 506560,
+  "registered_total": 923853,
+  "subsidized_total": 261170,
+  "paid_and_still_eligible": 197808,
+  "new_subsidy_applications": 32418,
+  "top_regions": [
+    {
+      "region": "ΑΤΤΙΚΗ",
+      "registered_over_12_months": 144486,
+      "registered_under_12_months": 122969,
+      "registered_total": 267455
+    },
+    {
+      "region": "ΚΡΗΤΗ",
+      "registered_over_12_months": 16394,
+      "registered_under_12_months": 60230,
+      "registered_total": 76624
+    },
+    {
+      "region": "ΔΥΤΙΚΗ ΕΛΛΑΔΑ",
+      "registered_over_12_months": 36598,
+      "registered_under_12_months": 32399,
+      "registered_total": 68997
+    },
+    {
+      "region": "ΘΕΣΣΑΛΙΑ",
+      "registered_over_12_months": 29133,
+      "registered_under_12_months": 28601,
+      "registered_total": 57734
+    },
+    {
+      "region": "ΝΟΤΙΟ ΑΙΓΑΙΟ",
+      "registered_over_12_months": 8298,
+      "registered_under_12_months": 48651,
+      "registered_total": 56949
+    }
+  ]
+}

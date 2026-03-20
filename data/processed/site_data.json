@@ -1,0 +1,4311 @@
+{
+  "data": [
+    {
+      "title": "Legislators, senior officials and managers",
+      "label_el": "Νομοθέτες, ανώτερα διοικητικά και διευθυντικά στελέχη",
+      "slug": "isco-1-managers",
+      "category": "knowledge-and-office",
+      "isco_major_group": "1",
+      "jobs": 129900,
+      "employment_share": 0.0298,
+      "history": [
+        {
+          "period": "2001-Q1",
+          "jobs": 402100
+        },
+        {
+          "period": "2001-Q2",
+          "jobs": 398600
+        },
+        {
+          "period": "2001-Q3",
+          "jobs": 390800
+        },
+        {
+          "period": "2001-Q4",
+          "jobs": 395200
+        },
+        {
+          "period": "2002-Q1",
+          "jobs": 414800
+        },
+        {
+          "period": "2002-Q2",
+          "jobs": 431800
+        },
+        {
+          "period": "2002-Q3",
+          "jobs": 428400
+        },
+        {
+          "period": "2002-Q4",
+          "jobs": 424800
+        },
+        {
+          "period": "2003-Q1",
+          "jobs": 405400
+        },
+        {
+          "period": "2003-Q2",
+          "jobs": 402400
+        },
+        {
+          "period": "2003-Q3",
+          "jobs": 409700
+        },
+        {
+          "period": "2003-Q4",
+          "jobs": 408000
+        },
+        {
+          "period": "2004-Q1",
+          "jobs": 456100
+        },
+        {
+          "period": "2004-Q2",
+          "jobs": 457000
+        },
+        {
+          "period": "2004-Q3",
+          "jobs": 458000
+        },
+        {
+          "period": "2004-Q4",
+          "jobs": 460300
+        },
+        {
+          "period": "2005-Q1",
+          "jobs": 453800
+        },
+        {
+          "period": "2005-Q2",
+          "jobs": 455300
+        },
+        {
+          "period": "2005-Q3",
+          "jobs": 460400
+        },
+        {
+          "period": "2005-Q4",
+          "jobs": 455500
+        },
+        {
+          "period": "2006-Q1",
+          "jobs": 463900
+        },
+        {
+          "period": "2006-Q2",
+          "jobs": 464800
+        },
+        {
+          "period": "2006-Q3",
+          "jobs": 466200
+        },
+        {
+          "period": "2006-Q4",
+          "jobs": 458700
+        },
+        {
+          "period": "2007-Q1",
+          "jobs": 451100
+        },
+        {
+          "period": "2007-Q2",
+          "jobs": 468700
+        },
+        {
+          "period": "2007-Q3",
+          "jobs": 449800
+        },
+        {
+          "period": "2007-Q4",
+          "jobs": 449600
+        },
+        {
+          "period": "2008-Q1",
+          "jobs": 468600
+        },
+        {
+          "period": "2008-Q2",
+          "jobs": 482100
+        },
+        {
+          "period": "2008-Q3",
+          "jobs": 484700
+        },
+        {
+          "period": "2008-Q4",
+          "jobs": 477300
+        },
+        {
+          "period": "2009-Q1",
+          "jobs": 480600
+        },
+        {
+          "period": "2009-Q2",
+          "jobs": 474800
+        },
+        {
+          "period": "2009-Q3",
+          "jobs": 455900
+        },
+        {
+          "period": "2009-Q4",
+          "jobs": 448400
+        },
+        {
+          "period": "2010-Q1",
+          "jobs": 447600
+        },
+        {
+          "period": "2010-Q2",
+          "jobs": 440700
+        },
+        {
+          "period": "2010-Q3",
+          "jobs": 439100
+        },
+        {
+          "period": "2010-Q4",
+          "jobs": 433000
+        },
+        {
+          "period": "2011-Q1",
+          "jobs": 184200
+        },
+        {
+          "period": "2011-Q2",
+          "jobs": 170100
+        },
+        {
+          "period": "2011-Q3",
+          "jobs": 157500
+        },
+        {
+          "period": "2011-Q4",
+          "jobs": 157400
+        },
+        {
+          "period": "2012-Q1",
+          "jobs": 152200
+        },
+        {
+          "period": "2012-Q2",
+          "jobs": 159100
+        },
+        {
+          "period": "2012-Q3",
+          "jobs": 162100
+        },
+        {
+          "period": "2012-Q4",
+          "jobs": 167900
+        },
+        {
+          "period": "2013-Q1",
+          "jobs": 175300
+        },
+        {
+          "period": "2013-Q2",
+          "jobs": 181500
+        },
+        {
+          "period": "2013-Q3",
+          "jobs": 182800
+        },
+        {
+          "period": "2013-Q4",
+          "jobs": 173500
+        },
+        {
+          "period": "2014-Q1",
+          "jobs": 144700
+        },
+        {
+          "period": "2014-Q2",
+          "jobs": 137200
+        },
+        {
+          "period": "2014-Q3",
+          "jobs": 130100
+        },
+        {
+          "period": "2014-Q4",
+          "jobs": 123600
+        },
+        {
+          "period": "2015-Q1",
+          "jobs": 113100
+        },
+        {
+          "period": "2015-Q2",
+          "jobs": 117800
+        },
+        {
+          "period": "2015-Q3",
+          "jobs": 115100
+        },
+        {
+          "period": "2015-Q4",
+          "jobs": 107700
+        },
+        {
+          "period": "2016-Q1",
+          "jobs": 105300
+        },
+        {
+          "period": "2016-Q2",
+          "jobs": 104400
+        },
+        {
+          "period": "2016-Q3",
+          "jobs": 98000
+        },
+        {
+          "period": "2016-Q4",
+          "jobs": 88800
+        },
+        {
+          "period": "2017-Q1",
+          "jobs": 88400
+        },
+        {
+          "period": "2017-Q2",
+          "jobs": 87700
+        },
+        {
+          "period": "2017-Q3",
+          "jobs": 94600
+        },
+        {
+          "period": "2017-Q4",
+          "jobs": 100000
+        },
+        {
+          "period": "2018-Q1",
+          "jobs": 107400
+        },
+        {
+          "period": "2018-Q2",
+          "jobs": 104700
+        },
+        {
+          "period": "2018-Q3",
+          "jobs": 111800
+        },
+        {
+          "period": "2018-Q4",
+          "jobs": 112500
+        },
+        {
+          "period": "2019-Q1",
+          "jobs": 112700
+        },
+        {
+          "period": "2019-Q2",
+          "jobs": 113600
+        },
+        {
+          "period": "2019-Q3",
+          "jobs": 110700
+        },
+        {
+          "period": "2019-Q4",
+          "jobs": 114100
+        },
+        {
+          "period": "2020-Q1",
+          "jobs": 122100
+        },
+        {
+          "period": "2020-Q2",
+          "jobs": 122600
+        },
+        {
+          "period": "2020-Q3",
+          "jobs": 120400
+        },
+        {
+          "period": "2020-Q4",
+          "jobs": 114100
+        },
+        {
+          "period": "2021-Q1",
+          "jobs": 93900
+        },
+        {
+          "period": "2021-Q2",
+          "jobs": 114100
+        },
+        {
+          "period": "2021-Q3",
+          "jobs": 123300
+        },
+        {
+          "period": "2021-Q4",
+          "jobs": 113600
+        },
+        {
+          "period": "2022-Q1",
+          "jobs": 117000
+        },
+        {
+          "period": "2022-Q2",
+          "jobs": 120400
+        },
+        {
+          "period": "2022-Q3",
+          "jobs": 120700
+        },
+        {
+          "period": "2022-Q4",
+          "jobs": 121700
+        },
+        {
+          "period": "2023-Q1",
+          "jobs": 123743
+        },
+        {
+          "period": "2023-Q2",
+          "jobs": 130900
+        },
+        {
+          "period": "2023-Q3",
+          "jobs": 130300
+        },
+        {
+          "period": "2023-Q4",
+          "jobs": 125500
+        },
+        {
+          "period": "2024-Q1",
+          "jobs": 126300
+        },
+        {
+          "period": "2024-Q2",
+          "jobs": 123700
+        },
+        {
+          "period": "2024-Q3",
+          "jobs": 118900
+        },
+        {
+          "period": "2024-Q4",
+          "jobs": 131400
+        },
+        {
+          "period": "2025-Q1",
+          "jobs": 128100
+        },
+        {
+          "period": "2025-Q2",
+          "jobs": 123000
+        },
+        {
+          "period": "2025-Q3",
+          "jobs": 136700
+        },
+        {
+          "period": "2025-Q4",
+          "jobs": 129900
+        }
+      ],
+      "yoy_pct": -1.1,
+      "five_year_pct": 13.8,
+      "description": "Leadership, coordination, policy, and organizational decision-making roles across the economy.",
+      "exposure": 7,
+      "exposure_rationale": "These roles are highly exposed on planning, reporting, and information-heavy tasks, but less exposed on negotiation, accountability, and people leadership.",
+      "source_period": "2025-Q4",
+      "url": "https://www.statistics.gr/en/statistics/-/publication/SJO01/-"
+    },
+    {
+      "title": "Professionals",
+      "label_el": "Επαγγελματίες",
+      "slug": "isco-2-professionals",
+      "category": "knowledge-and-office",
+      "isco_major_group": "2",
+      "jobs": 962000,
+      "employment_share": 0.221,
+      "history": [
+        {
+          "period": "2001-Q1",
+          "jobs": 514600
+        },
+        {
+          "period": "2001-Q2",
+          "jobs": 516900
+        },
+        {
+          "period": "2001-Q3",
+          "jobs": 524400
+        },
+        {
+          "period": "2001-Q4",
+          "jobs": 523100
+        },
+        {
+          "period": "2002-Q1",
+          "jobs": 543000
+        },
+        {
+          "period": "2002-Q2",
+          "jobs": 535200
+        },
+        {
+          "period": "2002-Q3",
+          "jobs": 525700
+        },
+        {
+          "period": "2002-Q4",
+          "jobs": 537900
+        },
+        {
+          "period": "2003-Q1",
+          "jobs": 547700
+        },
+        {
+          "period": "2003-Q2",
+          "jobs": 549700
+        },
+        {
+          "period": "2003-Q3",
+          "jobs": 540100
+        },
+        {
+          "period": "2003-Q4",
+          "jobs": 545600
+        },
+        {
+          "period": "2004-Q1",
+          "jobs": 615800
+        },
+        {
+          "period": "2004-Q2",
+          "jobs": 619400
+        },
+        {
+          "period": "2004-Q3",
+          "jobs": 600500
+        },
+        {
+          "period": "2004-Q4",
+          "jobs": 611200
+        },
+        {
+          "period": "2005-Q1",
+          "jobs": 610900
+        },
+        {
+          "period": "2005-Q2",
+          "jobs": 618200
+        },
+        {
+          "period": "2005-Q3",
+          "jobs": 612400
+        },
+        {
+          "period": "2005-Q4",
+          "jobs": 630000
+        },
+        {
+          "period": "2006-Q1",
+          "jobs": 644400
+        },
+        {
+          "period": "2006-Q2",
+          "jobs": 645600
+        },
+        {
+          "period": "2006-Q3",
+          "jobs": 646700
+        },
+        {
+          "period": "2006-Q4",
+          "jobs": 661200
+        },
+        {
+          "period": "2007-Q1",
+          "jobs": 652300
+        },
+        {
+          "period": "2007-Q2",
+          "jobs": 653200
+        },
+        {
+          "period": "2007-Q3",
+          "jobs": 651200
+        },
+        {
+          "period": "2007-Q4",
+          "jobs": 673900
+        },
+        {
+          "period": "2008-Q1",
+          "jobs": 678600
+        },
+        {
+          "period": "2008-Q2",
+          "jobs": 673900
+        },
+        {
+          "period": "2008-Q3",
+          "jobs": 684500
+        },
+        {
+          "period": "2008-Q4",
+          "jobs": 691000
+        },
+        {
+          "period": "2009-Q1",
+          "jobs": 688500
+        },
+        {
+          "period": "2009-Q2",
+          "jobs": 676500
+        },
+        {
+          "period": "2009-Q3",
+          "jobs": 655400
+        },
+        {
+          "period": "2009-Q4",
+          "jobs": 677000
+        },
+        {
+          "period": "2010-Q1",
+          "jobs": 687100
+        },
+        {
+          "period": "2010-Q2",
+          "jobs": 675400
+        },
+        {
+          "period": "2010-Q3",
+          "jobs": 651900
+        },
+        {
+          "period": "2010-Q4",
+          "jobs": 662900
+        },
+        {
+          "period": "2011-Q1",
+          "jobs": 736300
+        },
+        {
+          "period": "2011-Q2",
+          "jobs": 722000
+        },
+        {
+          "period": "2011-Q3",
+          "jobs": 708400
+        },
+        {
+          "period": "2011-Q4",
+          "jobs": 695300
+        },
+        {
+          "period": "2012-Q1",
+          "jobs": 704500
+        },
+        {
+          "period": "2012-Q2",
+          "jobs": 701800
+        },
+        {
+          "period": "2012-Q3",
+          "jobs": 672800
+        },
+        {
+          "period": "2012-Q4",
+          "jobs": 682100
+        },
+        {
+          "period": "2013-Q1",
+          "jobs": 677700
+        },
+        {
+          "period": "2013-Q2",
+          "jobs": 687400
+        },
+        {
+          "period": "2013-Q3",
+          "jobs": 687500
+        },
+        {
+          "period": "2013-Q4",
+          "jobs": 685200
+        },
+        {
+          "period": "2014-Q1",
+          "jobs": 672200
+        },
+        {
+          "period": "2014-Q2",
+          "jobs": 671900
+        },
+        {
+          "period": "2014-Q3",
+          "jobs": 653000
+        },
+        {
+          "period": "2014-Q4",
+          "jobs": 665200
+        },
+        {
+          "period": "2015-Q1",
+          "jobs": 648900
+        },
+        {
+          "period": "2015-Q2",
+          "jobs": 674600
+        },
+        {
+          "period": "2015-Q3",
+          "jobs": 671400
+        },
+        {
+          "period": "2015-Q4",
+          "jobs": 684400
+        },
+        {
+          "period": "2016-Q1",
+          "jobs": 707200
+        },
+        {
+          "period": "2016-Q2",
+          "jobs": 700900
+        },
+        {
+          "period": "2016-Q3",
+          "jobs": 703700
+        },
+        {
+          "period": "2016-Q4",
+          "jobs": 720600
+        },
+        {
+          "period": "2017-Q1",
+          "jobs": 725900
+        },
+        {
+          "period": "2017-Q2",
+          "jobs": 734400
+        },
+        {
+          "period": "2017-Q3",
+          "jobs": 720800
+        },
+        {
+          "period": "2017-Q4",
+          "jobs": 735800
+        },
+        {
+          "period": "2018-Q1",
+          "jobs": 731100
+        },
+        {
+          "period": "2018-Q2",
+          "jobs": 740600
+        },
+        {
+          "period": "2018-Q3",
+          "jobs": 726900
+        },
+        {
+          "period": "2018-Q4",
+          "jobs": 749900
+        },
+        {
+          "period": "2019-Q1",
+          "jobs": 757600
+        },
+        {
+          "period": "2019-Q2",
+          "jobs": 764400
+        },
+        {
+          "period": "2019-Q3",
+          "jobs": 745200
+        },
+        {
+          "period": "2019-Q4",
+          "jobs": 743500
+        },
+        {
+          "period": "2020-Q1",
+          "jobs": 769700
+        },
+        {
+          "period": "2020-Q2",
+          "jobs": 774400
+        },
+        {
+          "period": "2020-Q3",
+          "jobs": 769900
+        },
+        {
+          "period": "2020-Q4",
+          "jobs": 810900
+        },
+        {
+          "period": "2021-Q1",
+          "jobs": 791800
+        },
+        {
+          "period": "2021-Q2",
+          "jobs": 829800
+        },
+        {
+          "period": "2021-Q3",
+          "jobs": 820000
+        },
+        {
+          "period": "2021-Q4",
+          "jobs": 855200
+        },
+        {
+          "period": "2022-Q1",
+          "jobs": 879000
+        },
+        {
+          "period": "2022-Q2",
+          "jobs": 910000
+        },
+        {
+          "period": "2022-Q3",
+          "jobs": 901800
+        },
+        {
+          "period": "2022-Q4",
+          "jobs": 927900
+        },
+        {
+          "period": "2023-Q1",
+          "jobs": 923458
+        },
+        {
+          "period": "2023-Q2",
+          "jobs": 928000
+        },
+        {
+          "period": "2023-Q3",
+          "jobs": 917900
+        },
+        {
+          "period": "2023-Q4",
+          "jobs": 904000
+        },
+        {
+          "period": "2024-Q1",
+          "jobs": 923400
+        },
+        {
+          "period": "2024-Q2",
+          "jobs": 974900
+        },
+        {
+          "period": "2024-Q3",
+          "jobs": 930300
+        },
+        {
+          "period": "2024-Q4",
+          "jobs": 975800
+        },
+        {
+          "period": "2025-Q1",
+          "jobs": 1003700
+        },
+        {
+          "period": "2025-Q2",
+          "jobs": 993300
+        },
+        {
+          "period": "2025-Q3",
+          "jobs": 957300
+        },
+        {
+          "period": "2025-Q4",
+          "jobs": 962000
+        }
+      ],
+      "yoy_pct": -1.4,
+      "five_year_pct": 18.6,
+      "description": "Highly skilled professional occupations such as engineers, doctors, lawyers, teachers, and analysts.",
+      "exposure": 8,
+      "exposure_rationale": "A large share of this work is digital or document-heavy, so AI can reshape analysis, drafting, and research, even where human judgment remains central.",
+      "source_period": "2025-Q4",
+      "url": "https://www.statistics.gr/en/statistics/-/publication/SJO01/-"
+    },
+    {
+      "title": "Technicians and associate professionals",
+      "label_el": "Τεχνολόγοι, τεχνικοί και ασκούντες συναφή επαγγέλματα",
+      "slug": "isco-3-technicians",
+      "category": "knowledge-and-office",
+      "isco_major_group": "3",
+      "jobs": 317600,
+      "employment_share": 0.073,
+      "history": [
+        {
+          "period": "2001-Q1",
+          "jobs": 279900
+        },
+        {
+          "period": "2001-Q2",
+          "jobs": 278600
+        },
+        {
+          "period": "2001-Q3",
+          "jobs": 276800
+        },
+        {
+          "period": "2001-Q4",
+          "jobs": 276500
+        },
+        {
+          "period": "2002-Q1",
+          "jobs": 313400
+        },
+        {
+          "period": "2002-Q2",
+          "jobs": 304700
+        },
+        {
+          "period": "2002-Q3",
+          "jobs": 306100
+        },
+        {
+          "period": "2002-Q4",
+          "jobs": 309600
+        },
+        {
+          "period": "2003-Q1",
+          "jobs": 314700
+        },
+        {
+          "period": "2003-Q2",
+          "jobs": 331900
+        },
+        {
+          "period": "2003-Q3",
+          "jobs": 329100
+        },
+        {
+          "period": "2003-Q4",
+          "jobs": 324600
+        },
+        {
+          "period": "2004-Q1",
+          "jobs": 347300
+        },
+        {
+          "period": "2004-Q2",
+          "jobs": 341000
+        },
+        {
+          "period": "2004-Q3",
+          "jobs": 334900
+        },
+        {
+          "period": "2004-Q4",
+          "jobs": 337400
+        },
+        {
+          "period": "2005-Q1",
+          "jobs": 341200
+        },
+        {
+          "period": "2005-Q2",
+          "jobs": 350900
+        },
+        {
+          "period": "2005-Q3",
+          "jobs": 356600
+        },
+        {
+          "period": "2005-Q4",
+          "jobs": 373300
+        },
+        {
+          "period": "2006-Q1",
+          "jobs": 380300
+        },
+        {
+          "period": "2006-Q2",
+          "jobs": 385700
+        },
+        {
+          "period": "2006-Q3",
+          "jobs": 388200
+        },
+        {
+          "period": "2006-Q4",
+          "jobs": 390800
+        },
+        {
+          "period": "2007-Q1",
+          "jobs": 397800
+        },
+        {
+          "period": "2007-Q2",
+          "jobs": 400500
+        },
+        {
+          "period": "2007-Q3",
+          "jobs": 401200
+        },
+        {
+          "period": "2007-Q4",
+          "jobs": 397600
+        },
+        {
+          "period": "2008-Q1",
+          "jobs": 397300
+        },
+        {
+          "period": "2008-Q2",
+          "jobs": 396700
+        },
+        {
+          "period": "2008-Q3",
+          "jobs": 395800
+        },
+        {
+          "period": "2008-Q4",
+          "jobs": 398100
+        },
+        {
+          "period": "2009-Q1",
+          "jobs": 402600
+        },
+        {
+          "period": "2009-Q2",
+          "jobs": 397200
+        },
+        {
+          "period": "2009-Q3",
+          "jobs": 397600
+        },
+        {
+          "period": "2009-Q4",
+          "jobs": 393800
+        },
+        {
+          "period": "2010-Q1",
+          "jobs": 400700
+        },
+        {
+          "period": "2010-Q2",
+          "jobs": 393800
+        },
+        {
+          "period": "2010-Q3",
+          "jobs": 387000
+        },
+        {
+          "period": "2010-Q4",
+          "jobs": 382300
+        },
+        {
+          "period": "2011-Q1",
+          "jobs": 314300
+        },
+        {
+          "period": "2011-Q2",
+          "jobs": 325600
+        },
+        {
+          "period": "2011-Q3",
+          "jobs": 329400
+        },
+        {
+          "period": "2011-Q4",
+          "jobs": 310100
+        },
+        {
+          "period": "2012-Q1",
+          "jobs": 303600
+        },
+        {
+          "period": "2012-Q2",
+          "jobs": 300300
+        },
+        {
+          "period": "2012-Q3",
+          "jobs": 291800
+        },
+        {
+          "period": "2012-Q4",
+          "jobs": 293300
+        },
+        {
+          "period": "2013-Q1",
+          "jobs": 272200
+        },
+        {
+          "period": "2013-Q2",
+          "jobs": 270600
+        },
+        {
+          "period": "2013-Q3",
+          "jobs": 269100
+        },
+        {
+          "period": "2013-Q4",
+          "jobs": 271600
+        },
+        {
+          "period": "2014-Q1",
+          "jobs": 279300
+        },
+        {
+          "period": "2014-Q2",
+          "jobs": 282400
+        },
+        {
+          "period": "2014-Q3",
+          "jobs": 286000
+        },
+        {
+          "period": "2014-Q4",
+          "jobs": 281700
+        },
+        {
+          "period": "2015-Q1",
+          "jobs": 289900
+        },
+        {
+          "period": "2015-Q2",
+          "jobs": 299500
+        },
+        {
+          "period": "2015-Q3",
+          "jobs": 293200
+        },
+        {
+          "period": "2015-Q4",
+          "jobs": 296700
+        },
+        {
+          "period": "2016-Q1",
+          "jobs": 299100
+        },
+        {
+          "period": "2016-Q2",
+          "jobs": 311700
+        },
+        {
+          "period": "2016-Q3",
+          "jobs": 295300
+        },
+        {
+          "period": "2016-Q4",
+          "jobs": 290900
+        },
+        {
+          "period": "2017-Q1",
+          "jobs": 300100
+        },
+        {
+          "period": "2017-Q2",
+          "jobs": 301000
+        },
+        {
+          "period": "2017-Q3",
+          "jobs": 297800
+        },
+        {
+          "period": "2017-Q4",
+          "jobs": 290900
+        },
+        {
+          "period": "2018-Q1",
+          "jobs": 305700
+        },
+        {
+          "period": "2018-Q2",
+          "jobs": 304200
+        },
+        {
+          "period": "2018-Q3",
+          "jobs": 304300
+        },
+        {
+          "period": "2018-Q4",
+          "jobs": 301400
+        },
+        {
+          "period": "2019-Q1",
+          "jobs": 308200
+        },
+        {
+          "period": "2019-Q2",
+          "jobs": 314600
+        },
+        {
+          "period": "2019-Q3",
+          "jobs": 310300
+        },
+        {
+          "period": "2019-Q4",
+          "jobs": 315200
+        },
+        {
+          "period": "2020-Q1",
+          "jobs": 318700
+        },
+        {
+          "period": "2020-Q2",
+          "jobs": 321100
+        },
+        {
+          "period": "2020-Q3",
+          "jobs": 338900
+        },
+        {
+          "period": "2020-Q4",
+          "jobs": 344000
+        },
+        {
+          "period": "2021-Q1",
+          "jobs": 287800
+        },
+        {
+          "period": "2021-Q2",
+          "jobs": 311600
+        },
+        {
+          "period": "2021-Q3",
+          "jobs": 323800
+        },
+        {
+          "period": "2021-Q4",
+          "jobs": 313100
+        },
+        {
+          "period": "2022-Q1",
+          "jobs": 303200
+        },
+        {
+          "period": "2022-Q2",
+          "jobs": 291100
+        },
+        {
+          "period": "2022-Q3",
+          "jobs": 302100
+        },
+        {
+          "period": "2022-Q4",
+          "jobs": 299200
+        },
+        {
+          "period": "2023-Q1",
+          "jobs": 293094
+        },
+        {
+          "period": "2023-Q2",
+          "jobs": 299000
+        },
+        {
+          "period": "2023-Q3",
+          "jobs": 291300
+        },
+        {
+          "period": "2023-Q4",
+          "jobs": 282300
+        },
+        {
+          "period": "2024-Q1",
+          "jobs": 279500
+        },
+        {
+          "period": "2024-Q2",
+          "jobs": 280300
+        },
+        {
+          "period": "2024-Q3",
+          "jobs": 274700
+        },
+        {
+          "period": "2024-Q4",
+          "jobs": 268700
+        },
+        {
+          "period": "2025-Q1",
+          "jobs": 280000
+        },
+        {
+          "period": "2025-Q2",
+          "jobs": 299600
+        },
+        {
+          "period": "2025-Q3",
+          "jobs": 303100
+        },
+        {
+          "period": "2025-Q4",
+          "jobs": 317600
+        }
+      ],
+      "yoy_pct": 18.2,
+      "five_year_pct": -7.7,
+      "description": "Technical support and applied-professional roles bridging theory and hands-on execution.",
+      "exposure": 6,
+      "exposure_rationale": "AI is likely to automate diagnostics, documentation, and some analysis, but many tasks still require fieldwork, equipment, and human oversight.",
+      "source_period": "2025-Q4",
+      "url": "https://www.statistics.gr/en/statistics/-/publication/SJO01/-"
+    },
+    {
+      "title": "Clerks",
+      "label_el": "Υπάλληλοι γραφείου",
+      "slug": "isco-4-clerks",
+      "category": "knowledge-and-office",
+      "isco_major_group": "4",
+      "jobs": 504300,
+      "employment_share": 0.1159,
+      "history": [
+        {
+          "period": "2001-Q1",
+          "jobs": 487800
+        },
+        {
+          "period": "2001-Q2",
+          "jobs": 495700
+        },
+        {
+          "period": "2001-Q3",
+          "jobs": 489300
+        },
+        {
+          "period": "2001-Q4",
+          "jobs": 481500
+        },
+        {
+          "period": "2002-Q1",
+          "jobs": 445600
+        },
+        {
+          "period": "2002-Q2",
+          "jobs": 463300
+        },
+        {
+          "period": "2002-Q3",
+          "jobs": 470600
+        },
+        {
+          "period": "2002-Q4",
+          "jobs": 476000
+        },
+        {
+          "period": "2003-Q1",
+          "jobs": 471900
+        },
+        {
+          "period": "2003-Q2",
+          "jobs": 465600
+        },
+        {
+          "period": "2003-Q3",
+          "jobs": 468600
+        },
+        {
+          "period": "2003-Q4",
+          "jobs": 479200
+        },
+        {
+          "period": "2004-Q1",
+          "jobs": 497400
+        },
+        {
+          "period": "2004-Q2",
+          "jobs": 504500
+        },
+        {
+          "period": "2004-Q3",
+          "jobs": 516000
+        },
+        {
+          "period": "2004-Q4",
+          "jobs": 516900
+        },
+        {
+          "period": "2005-Q1",
+          "jobs": 506900
+        },
+        {
+          "period": "2005-Q2",
+          "jobs": 513000
+        },
+        {
+          "period": "2005-Q3",
+          "jobs": 514100
+        },
+        {
+          "period": "2005-Q4",
+          "jobs": 517800
+        },
+        {
+          "period": "2006-Q1",
+          "jobs": 534800
+        },
+        {
+          "period": "2006-Q2",
+          "jobs": 535600
+        },
+        {
+          "period": "2006-Q3",
+          "jobs": 538800
+        },
+        {
+          "period": "2006-Q4",
+          "jobs": 514500
+        },
+        {
+          "period": "2007-Q1",
+          "jobs": 509700
+        },
+        {
+          "period": "2007-Q2",
+          "jobs": 522900
+        },
+        {
+          "period": "2007-Q3",
+          "jobs": 519100
+        },
+        {
+          "period": "2007-Q4",
+          "jobs": 519100
+        },
+        {
+          "period": "2008-Q1",
+          "jobs": 524700
+        },
+        {
+          "period": "2008-Q2",
+          "jobs": 545600
+        },
+        {
+          "period": "2008-Q3",
+          "jobs": 544600
+        },
+        {
+          "period": "2008-Q4",
+          "jobs": 527900
+        },
+        {
+          "period": "2009-Q1",
+          "jobs": 513500
+        },
+        {
+          "period": "2009-Q2",
+          "jobs": 503900
+        },
+        {
+          "period": "2009-Q3",
+          "jobs": 491400
+        },
+        {
+          "period": "2009-Q4",
+          "jobs": 479200
+        },
+        {
+          "period": "2010-Q1",
+          "jobs": 468700
+        },
+        {
+          "period": "2010-Q2",
+          "jobs": 479400
+        },
+        {
+          "period": "2010-Q3",
+          "jobs": 477900
+        },
+        {
+          "period": "2010-Q4",
+          "jobs": 471900
+        },
+        {
+          "period": "2011-Q1",
+          "jobs": 439500
+        },
+        {
+          "period": "2011-Q2",
+          "jobs": 431100
+        },
+        {
+          "period": "2011-Q3",
+          "jobs": 413900
+        },
+        {
+          "period": "2011-Q4",
+          "jobs": 402100
+        },
+        {
+          "period": "2012-Q1",
+          "jobs": 387700
+        },
+        {
+          "period": "2012-Q2",
+          "jobs": 380100
+        },
+        {
+          "period": "2012-Q3",
+          "jobs": 359700
+        },
+        {
+          "period": "2012-Q4",
+          "jobs": 363400
+        },
+        {
+          "period": "2013-Q1",
+          "jobs": 347800
+        },
+        {
+          "period": "2013-Q2",
+          "jobs": 349300
+        },
+        {
+          "period": "2013-Q3",
+          "jobs": 337900
+        },
+        {
+          "period": "2013-Q4",
+          "jobs": 339400
+        },
+        {
+          "period": "2014-Q1",
+          "jobs": 347100
+        },
+        {
+          "period": "2014-Q2",
+          "jobs": 339000
+        },
+        {
+          "period": "2014-Q3",
+          "jobs": 348800
+        },
+        {
+          "period": "2014-Q4",
+          "jobs": 342200
+        },
+        {
+          "period": "2015-Q1",
+          "jobs": 357400
+        },
+        {
+          "period": "2015-Q2",
+          "jobs": 373200
+        },
+        {
+          "period": "2015-Q3",
+          "jobs": 390200
+        },
+        {
+          "period": "2015-Q4",
+          "jobs": 391400
+        },
+        {
+          "period": "2016-Q1",
+          "jobs": 378100
+        },
+        {
+          "period": "2016-Q2",
+          "jobs": 384000
+        },
+        {
+          "period": "2016-Q3",
+          "jobs": 391500
+        },
+        {
+          "period": "2016-Q4",
+          "jobs": 377700
+        },
+        {
+          "period": "2017-Q1",
+          "jobs": 378900
+        },
+        {
+          "period": "2017-Q2",
+          "jobs": 402400
+        },
+        {
+          "period": "2017-Q3",
+          "jobs": 416900
+        },
+        {
+          "period": "2017-Q4",
+          "jobs": 400300
+        },
+        {
+          "period": "2018-Q1",
+          "jobs": 389400
+        },
+        {
+          "period": "2018-Q2",
+          "jobs": 419300
+        },
+        {
+          "period": "2018-Q3",
+          "jobs": 425200
+        },
+        {
+          "period": "2018-Q4",
+          "jobs": 419000
+        },
+        {
+          "period": "2019-Q1",
+          "jobs": 425500
+        },
+        {
+          "period": "2019-Q2",
+          "jobs": 454300
+        },
+        {
+          "period": "2019-Q3",
+          "jobs": 468600
+        },
+        {
+          "period": "2019-Q4",
+          "jobs": 449300
+        },
+        {
+          "period": "2020-Q1",
+          "jobs": 445700
+        },
+        {
+          "period": "2020-Q2",
+          "jobs": 439200
+        },
+        {
+          "period": "2020-Q3",
+          "jobs": 462900
+        },
+        {
+          "period": "2020-Q4",
+          "jobs": 464400
+        },
+        {
+          "period": "2021-Q1",
+          "jobs": 419500
+        },
+        {
+          "period": "2021-Q2",
+          "jobs": 450500
+        },
+        {
+          "period": "2021-Q3",
+          "jobs": 488100
+        },
+        {
+          "period": "2021-Q4",
+          "jobs": 463200
+        },
+        {
+          "period": "2022-Q1",
+          "jobs": 480600
+        },
+        {
+          "period": "2022-Q2",
+          "jobs": 473600
+        },
+        {
+          "period": "2022-Q3",
+          "jobs": 474700
+        },
+        {
+          "period": "2022-Q4",
+          "jobs": 464500
+        },
+        {
+          "period": "2023-Q1",
+          "jobs": 426082
+        },
+        {
+          "period": "2023-Q2",
+          "jobs": 451600
+        },
+        {
+          "period": "2023-Q3",
+          "jobs": 459600
+        },
+        {
+          "period": "2023-Q4",
+          "jobs": 466200
+        },
+        {
+          "period": "2024-Q1",
+          "jobs": 455700
+        },
+        {
+          "period": "2024-Q2",
+          "jobs": 462400
+        },
+        {
+          "period": "2024-Q3",
+          "jobs": 480400
+        },
+        {
+          "period": "2024-Q4",
+          "jobs": 475100
+        },
+        {
+          "period": "2025-Q1",
+          "jobs": 470200
+        },
+        {
+          "period": "2025-Q2",
+          "jobs": 491900
+        },
+        {
+          "period": "2025-Q3",
+          "jobs": 505800
+        },
+        {
+          "period": "2025-Q4",
+          "jobs": 504300
+        }
+      ],
+      "yoy_pct": 6.1,
+      "five_year_pct": 8.6,
+      "description": "Administrative, records, customer support, and clerical roles concentrated on office processes.",
+      "exposure": 8,
+      "exposure_rationale": "Routine document handling, coordination, and data entry are among the most exposed workflows to automation and AI copilots.",
+      "source_period": "2025-Q4",
+      "url": "https://www.statistics.gr/en/statistics/-/publication/SJO01/-"
+    },
+    {
+      "title": "Service workers and shop and market sale workers",
+      "label_el": "Απασχολούμενοι στην παροχή υπηρεσιών και πωλητές",
+      "slug": "isco-5-service-and-sales",
+      "category": "services-and-sales",
+      "isco_major_group": "5",
+      "jobs": 981800,
+      "employment_share": 0.2256,
+      "history": [
+        {
+          "period": "2001-Q1",
+          "jobs": 554600
+        },
+        {
+          "period": "2001-Q2",
+          "jobs": 562500
+        },
+        {
+          "period": "2001-Q3",
+          "jobs": 578800
+        },
+        {
+          "period": "2001-Q4",
+          "jobs": 548600
+        },
+        {
+          "period": "2002-Q1",
+          "jobs": 531900
+        },
+        {
+          "period": "2002-Q2",
+          "jobs": 577700
+        },
+        {
+          "period": "2002-Q3",
+          "jobs": 593100
+        },
+        {
+          "period": "2002-Q4",
+          "jobs": 579500
+        },
+        {
+          "period": "2003-Q1",
+          "jobs": 587500
+        },
+        {
+          "period": "2003-Q2",
+          "jobs": 617100
+        },
+        {
+          "period": "2003-Q3",
+          "jobs": 634300
+        },
+        {
+          "period": "2003-Q4",
+          "jobs": 616400
+        },
+        {
+          "period": "2004-Q1",
+          "jobs": 588900
+        },
+        {
+          "period": "2004-Q2",
+          "jobs": 611200
+        },
+        {
+          "period": "2004-Q3",
+          "jobs": 631000
+        },
+        {
+          "period": "2004-Q4",
+          "jobs": 613800
+        },
+        {
+          "period": "2005-Q1",
+          "jobs": 613900
+        },
+        {
+          "period": "2005-Q2",
+          "jobs": 630000
+        },
+        {
+          "period": "2005-Q3",
+          "jobs": 629900
+        },
+        {
+          "period": "2005-Q4",
+          "jobs": 619500
+        },
+        {
+          "period": "2006-Q1",
+          "jobs": 611300
+        },
+        {
+          "period": "2006-Q2",
+          "jobs": 620700
+        },
+        {
+          "period": "2006-Q3",
+          "jobs": 632400
+        },
+        {
+          "period": "2006-Q4",
+          "jobs": 618500
+        },
+        {
+          "period": "2007-Q1",
+          "jobs": 616500
+        },
+        {
+          "period": "2007-Q2",
+          "jobs": 649000
+        },
+        {
+          "period": "2007-Q3",
+          "jobs": 667200
+        },
+        {
+          "period": "2007-Q4",
+          "jobs": 659700
+        },
+        {
+          "period": "2008-Q1",
+          "jobs": 650100
+        },
+        {
+          "period": "2008-Q2",
+          "jobs": 677800
+        },
+        {
+          "period": "2008-Q3",
+          "jobs": 678100
+        },
+        {
+          "period": "2008-Q4",
+          "jobs": 663300
+        },
+        {
+          "period": "2009-Q1",
+          "jobs": 654300
+        },
+        {
+          "period": "2009-Q2",
+          "jobs": 679700
+        },
+        {
+          "period": "2009-Q3",
+          "jobs": 699700
+        },
+        {
+          "period": "2009-Q4",
+          "jobs": 668300
+        },
+        {
+          "period": "2010-Q1",
+          "jobs": 636700
+        },
+        {
+          "period": "2010-Q2",
+          "jobs": 648800
+        },
+        {
+          "period": "2010-Q3",
+          "jobs": 662700
+        },
+        {
+          "period": "2010-Q4",
+          "jobs": 624700
+        },
+        {
+          "period": "2011-Q1",
+          "jobs": 859700
+        },
+        {
+          "period": "2011-Q2",
+          "jobs": 881900
+        },
+        {
+          "period": "2011-Q3",
+          "jobs": 878900
+        },
+        {
+          "period": "2011-Q4",
+          "jobs": 848800
+        },
+        {
+          "period": "2012-Q1",
+          "jobs": 809500
+        },
+        {
+          "period": "2012-Q2",
+          "jobs": 798700
+        },
+        {
+          "period": "2012-Q3",
+          "jobs": 789200
+        },
+        {
+          "period": "2012-Q4",
+          "jobs": 752600
+        },
+        {
+          "period": "2013-Q1",
+          "jobs": 722300
+        },
+        {
+          "period": "2013-Q2",
+          "jobs": 727200
+        },
+        {
+          "period": "2013-Q3",
+          "jobs": 732300
+        },
+        {
+          "period": "2013-Q4",
+          "jobs": 705300
+        },
+        {
+          "period": "2014-Q1",
+          "jobs": 725600
+        },
+        {
+          "period": "2014-Q2",
+          "jobs": 776300
+        },
+        {
+          "period": "2014-Q3",
+          "jobs": 816900
+        },
+        {
+          "period": "2014-Q4",
+          "jobs": 803600
+        },
+        {
+          "period": "2015-Q1",
+          "jobs": 803700
+        },
+        {
+          "period": "2015-Q2",
+          "jobs": 843200
+        },
+        {
+          "period": "2015-Q3",
+          "jobs": 896700
+        },
+        {
+          "period": "2015-Q4",
+          "jobs": 876600
+        },
+        {
+          "period": "2016-Q1",
+          "jobs": 847700
+        },
+        {
+          "period": "2016-Q2",
+          "jobs": 869800
+        },
+        {
+          "period": "2016-Q3",
+          "jobs": 904900
+        },
+        {
+          "period": "2016-Q4",
+          "jobs": 872300
+        },
+        {
+          "period": "2017-Q1",
+          "jobs": 854500
+        },
+        {
+          "period": "2017-Q2",
+          "jobs": 898400
+        },
+        {
+          "period": "2017-Q3",
+          "jobs": 912600
+        },
+        {
+          "period": "2017-Q4",
+          "jobs": 868400
+        },
+        {
+          "period": "2018-Q1",
+          "jobs": 852800
+        },
+        {
+          "period": "2018-Q2",
+          "jobs": 908900
+        },
+        {
+          "period": "2018-Q3",
+          "jobs": 931600
+        },
+        {
+          "period": "2018-Q4",
+          "jobs": 887100
+        },
+        {
+          "period": "2019-Q1",
+          "jobs": 871100
+        },
+        {
+          "period": "2019-Q2",
+          "jobs": 927300
+        },
+        {
+          "period": "2019-Q3",
+          "jobs": 951800
+        },
+        {
+          "period": "2019-Q4",
+          "jobs": 928500
+        },
+        {
+          "period": "2020-Q1",
+          "jobs": 899100
+        },
+        {
+          "period": "2020-Q2",
+          "jobs": 892100
+        },
+        {
+          "period": "2020-Q3",
+          "jobs": 942100
+        },
+        {
+          "period": "2020-Q4",
+          "jobs": 891900
+        },
+        {
+          "period": "2021-Q1",
+          "jobs": 741500
+        },
+        {
+          "period": "2021-Q2",
+          "jobs": 855500
+        },
+        {
+          "period": "2021-Q3",
+          "jobs": 955700
+        },
+        {
+          "period": "2021-Q4",
+          "jobs": 921300
+        },
+        {
+          "period": "2022-Q1",
+          "jobs": 886700
+        },
+        {
+          "period": "2022-Q2",
+          "jobs": 927900
+        },
+        {
+          "period": "2022-Q3",
+          "jobs": 948900
+        },
+        {
+          "period": "2022-Q4",
+          "jobs": 866100
+        },
+        {
+          "period": "2023-Q1",
+          "jobs": 879204
+        },
+        {
+          "period": "2023-Q2",
+          "jobs": 943800
+        },
+        {
+          "period": "2023-Q3",
+          "jobs": 960800
+        },
+        {
+          "period": "2023-Q4",
+          "jobs": 942600
+        },
+        {
+          "period": "2024-Q1",
+          "jobs": 925900
+        },
+        {
+          "period": "2024-Q2",
+          "jobs": 1007800
+        },
+        {
+          "period": "2024-Q3",
+          "jobs": 1004300
+        },
+        {
+          "period": "2024-Q4",
+          "jobs": 955800
+        },
+        {
+          "period": "2025-Q1",
+          "jobs": 927700
+        },
+        {
+          "period": "2025-Q2",
+          "jobs": 1010400
+        },
+        {
+          "period": "2025-Q3",
+          "jobs": 1033900
+        },
+        {
+          "period": "2025-Q4",
+          "jobs": 981800
+        }
+      ],
+      "yoy_pct": 2.7,
+      "five_year_pct": 10.1,
+      "description": "Frontline service, hospitality, retail, and sales occupations with strong person-to-person interaction.",
+      "exposure": 4,
+      "exposure_rationale": "AI can assist scheduling, training, and sales support, but the core work still depends heavily on physical presence and direct customer interaction.",
+      "source_period": "2025-Q4",
+      "url": "https://www.statistics.gr/en/statistics/-/publication/SJO01/-"
+    },
+    {
+      "title": "Skilled agricultural and fishery workers",
+      "label_el": "Ειδικευμένοι γεωργοί, κτηνοτρόφοι, δασοκόμοι και αλιείς",
+      "slug": "isco-6-agriculture-and-fishery",
+      "category": "primary-sector",
+      "isco_major_group": "6",
+      "jobs": 333600,
+      "employment_share": 0.0766,
+      "history": [
+        {
+          "period": "2001-Q1",
+          "jobs": 669100
+        },
+        {
+          "period": "2001-Q2",
+          "jobs": 659700
+        },
+        {
+          "period": "2001-Q3",
+          "jobs": 655700
+        },
+        {
+          "period": "2001-Q4",
+          "jobs": 637700
+        },
+        {
+          "period": "2002-Q1",
+          "jobs": 629400
+        },
+        {
+          "period": "2002-Q2",
+          "jobs": 642400
+        },
+        {
+          "period": "2002-Q3",
+          "jobs": 650400
+        },
+        {
+          "period": "2002-Q4",
+          "jobs": 644100
+        },
+        {
+          "period": "2003-Q1",
+          "jobs": 648800
+        },
+        {
+          "period": "2003-Q2",
+          "jobs": 641600
+        },
+        {
+          "period": "2003-Q3",
+          "jobs": 642800
+        },
+        {
+          "period": "2003-Q4",
+          "jobs": 640100
+        },
+        {
+          "period": "2004-Q1",
+          "jobs": 513200
+        },
+        {
+          "period": "2004-Q2",
+          "jobs": 522500
+        },
+        {
+          "period": "2004-Q3",
+          "jobs": 522300
+        },
+        {
+          "period": "2004-Q4",
+          "jobs": 525600
+        },
+        {
+          "period": "2005-Q1",
+          "jobs": 528000
+        },
+        {
+          "period": "2005-Q2",
+          "jobs": 523700
+        },
+        {
+          "period": "2005-Q3",
+          "jobs": 525400
+        },
+        {
+          "period": "2005-Q4",
+          "jobs": 513600
+        },
+        {
+          "period": "2006-Q1",
+          "jobs": 518500
+        },
+        {
+          "period": "2006-Q2",
+          "jobs": 514400
+        },
+        {
+          "period": "2006-Q3",
+          "jobs": 509100
+        },
+        {
+          "period": "2006-Q4",
+          "jobs": 507600
+        },
+        {
+          "period": "2007-Q1",
+          "jobs": 508500
+        },
+        {
+          "period": "2007-Q2",
+          "jobs": 502500
+        },
+        {
+          "period": "2007-Q3",
+          "jobs": 492700
+        },
+        {
+          "period": "2007-Q4",
+          "jobs": 494600
+        },
+        {
+          "period": "2008-Q1",
+          "jobs": 492700
+        },
+        {
+          "period": "2008-Q2",
+          "jobs": 492700
+        },
+        {
+          "period": "2008-Q3",
+          "jobs": 486700
+        },
+        {
+          "period": "2008-Q4",
+          "jobs": 490400
+        },
+        {
+          "period": "2009-Q1",
+          "jobs": 491900
+        },
+        {
+          "period": "2009-Q2",
+          "jobs": 496200
+        },
+        {
+          "period": "2009-Q3",
+          "jobs": 508000
+        },
+        {
+          "period": "2009-Q4",
+          "jobs": 511400
+        },
+        {
+          "period": "2010-Q1",
+          "jobs": 520900
+        },
+        {
+          "period": "2010-Q2",
+          "jobs": 509400
+        },
+        {
+          "period": "2010-Q3",
+          "jobs": 505800
+        },
+        {
+          "period": "2010-Q4",
+          "jobs": 492000
+        },
+        {
+          "period": "2011-Q1",
+          "jobs": 488800
+        },
+        {
+          "period": "2011-Q2",
+          "jobs": 473500
+        },
+        {
+          "period": "2011-Q3",
+          "jobs": 470000
+        },
+        {
+          "period": "2011-Q4",
+          "jobs": 462300
+        },
+        {
+          "period": "2012-Q1",
+          "jobs": 454800
+        },
+        {
+          "period": "2012-Q2",
+          "jobs": 454600
+        },
+        {
+          "period": "2012-Q3",
+          "jobs": 453100
+        },
+        {
+          "period": "2012-Q4",
+          "jobs": 449900
+        },
+        {
+          "period": "2013-Q1",
+          "jobs": 449000
+        },
+        {
+          "period": "2013-Q2",
+          "jobs": 454000
+        },
+        {
+          "period": "2013-Q3",
+          "jobs": 459300
+        },
+        {
+          "period": "2013-Q4",
+          "jobs": 450400
+        },
+        {
+          "period": "2014-Q1",
+          "jobs": 450300
+        },
+        {
+          "period": "2014-Q2",
+          "jobs": 446000
+        },
+        {
+          "period": "2014-Q3",
+          "jobs": 453800
+        },
+        {
+          "period": "2014-Q4",
+          "jobs": 452300
+        },
+        {
+          "period": "2015-Q1",
+          "jobs": 447800
+        },
+        {
+          "period": "2015-Q2",
+          "jobs": 439000
+        },
+        {
+          "period": "2015-Q3",
+          "jobs": 424800
+        },
+        {
+          "period": "2015-Q4",
+          "jobs": 416800
+        },
+        {
+          "period": "2016-Q1",
+          "jobs": 410600
+        },
+        {
+          "period": "2016-Q2",
+          "jobs": 430900
+        },
+        {
+          "period": "2016-Q3",
+          "jobs": 417500
+        },
+        {
+          "period": "2016-Q4",
+          "jobs": 412500
+        },
+        {
+          "period": "2017-Q1",
+          "jobs": 420700
+        },
+        {
+          "period": "2017-Q2",
+          "jobs": 421900
+        },
+        {
+          "period": "2017-Q3",
+          "jobs": 418400
+        },
+        {
+          "period": "2017-Q4",
+          "jobs": 419900
+        },
+        {
+          "period": "2018-Q1",
+          "jobs": 432100
+        },
+        {
+          "period": "2018-Q2",
+          "jobs": 438000
+        },
+        {
+          "period": "2018-Q3",
+          "jobs": 436300
+        },
+        {
+          "period": "2018-Q4",
+          "jobs": 429800
+        },
+        {
+          "period": "2019-Q1",
+          "jobs": 423000
+        },
+        {
+          "period": "2019-Q2",
+          "jobs": 413800
+        },
+        {
+          "period": "2019-Q3",
+          "jobs": 403100
+        },
+        {
+          "period": "2019-Q4",
+          "jobs": 402100
+        },
+        {
+          "period": "2020-Q1",
+          "jobs": 385800
+        },
+        {
+          "period": "2020-Q2",
+          "jobs": 385600
+        },
+        {
+          "period": "2020-Q3",
+          "jobs": 368200
+        },
+        {
+          "period": "2020-Q4",
+          "jobs": 362100
+        },
+        {
+          "period": "2021-Q1",
+          "jobs": 414400
+        },
+        {
+          "period": "2021-Q2",
+          "jobs": 411200
+        },
+        {
+          "period": "2021-Q3",
+          "jobs": 410500
+        },
+        {
+          "period": "2021-Q4",
+          "jobs": 422400
+        },
+        {
+          "period": "2022-Q1",
+          "jobs": 418100
+        },
+        {
+          "period": "2022-Q2",
+          "jobs": 420100
+        },
+        {
+          "period": "2022-Q3",
+          "jobs": 421200
+        },
+        {
+          "period": "2022-Q4",
+          "jobs": 433000
+        },
+        {
+          "period": "2023-Q1",
+          "jobs": 438707
+        },
+        {
+          "period": "2023-Q2",
+          "jobs": 422100
+        },
+        {
+          "period": "2023-Q3",
+          "jobs": 436600
+        },
+        {
+          "period": "2023-Q4",
+          "jobs": 448100
+        },
+        {
+          "period": "2024-Q1",
+          "jobs": 438000
+        },
+        {
+          "period": "2024-Q2",
+          "jobs": 431500
+        },
+        {
+          "period": "2024-Q3",
+          "jobs": 427400
+        },
+        {
+          "period": "2024-Q4",
+          "jobs": 409500
+        },
+        {
+          "period": "2025-Q1",
+          "jobs": 375800
+        },
+        {
+          "period": "2025-Q2",
+          "jobs": 367900
+        },
+        {
+          "period": "2025-Q3",
+          "jobs": 342800
+        },
+        {
+          "period": "2025-Q4",
+          "jobs": 333600
+        }
+      ],
+      "yoy_pct": -18.5,
+      "five_year_pct": -7.9,
+      "description": "Skilled occupations in agriculture, livestock, forestry, and fishing tied to land, animals, and physical production.",
+      "exposure": 2,
+      "exposure_rationale": "Digital tools can improve planning and monitoring, but the work remains constrained by physical environments and field operations.",
+      "source_period": "2025-Q4",
+      "url": "https://www.statistics.gr/en/statistics/-/publication/SJO01/-"
+    },
+    {
+      "title": "Craft and related trade workers",
+      "label_el": "Ειδικευμένοι τεχνίτες και ασκούντες συναφή επαγγέλματα",
+      "slug": "isco-7-craft-and-trades",
+      "category": "industrial-and-trades",
+      "isco_major_group": "7",
+      "jobs": 430600,
+      "employment_share": 0.0989,
+      "history": [
+        {
+          "period": "2001-Q1",
+          "jobs": 692300
+        },
+        {
+          "period": "2001-Q2",
+          "jobs": 688400
+        },
+        {
+          "period": "2001-Q3",
+          "jobs": 690000
+        },
+        {
+          "period": "2001-Q4",
+          "jobs": 687600
+        },
+        {
+          "period": "2002-Q1",
+          "jobs": 680400
+        },
+        {
+          "period": "2002-Q2",
+          "jobs": 683900
+        },
+        {
+          "period": "2002-Q3",
+          "jobs": 688000
+        },
+        {
+          "period": "2002-Q4",
+          "jobs": 687700
+        },
+        {
+          "period": "2003-Q1",
+          "jobs": 683000
+        },
+        {
+          "period": "2003-Q2",
+          "jobs": 703500
+        },
+        {
+          "period": "2003-Q3",
+          "jobs": 703200
+        },
+        {
+          "period": "2003-Q4",
+          "jobs": 698000
+        },
+        {
+          "period": "2004-Q1",
+          "jobs": 656300
+        },
+        {
+          "period": "2004-Q2",
+          "jobs": 676600
+        },
+        {
+          "period": "2004-Q3",
+          "jobs": 672800
+        },
+        {
+          "period": "2004-Q4",
+          "jobs": 669400
+        },
+        {
+          "period": "2005-Q1",
+          "jobs": 683400
+        },
+        {
+          "period": "2005-Q2",
+          "jobs": 686500
+        },
+        {
+          "period": "2005-Q3",
+          "jobs": 677000
+        },
+        {
+          "period": "2005-Q4",
+          "jobs": 669000
+        },
+        {
+          "period": "2006-Q1",
+          "jobs": 649200
+        },
+        {
+          "period": "2006-Q2",
+          "jobs": 661100
+        },
+        {
+          "period": "2006-Q3",
+          "jobs": 669500
+        },
+        {
+          "period": "2006-Q4",
+          "jobs": 681700
+        },
+        {
+          "period": "2007-Q1",
+          "jobs": 694700
+        },
+        {
+          "period": "2007-Q2",
+          "jobs": 692500
+        },
+        {
+          "period": "2007-Q3",
+          "jobs": 702200
+        },
+        {
+          "period": "2007-Q4",
+          "jobs": 690500
+        },
+        {
+          "period": "2008-Q1",
+          "jobs": 671200
+        },
+        {
+          "period": "2008-Q2",
+          "jobs": 667700
+        },
+        {
+          "period": "2008-Q3",
+          "jobs": 655000
+        },
+        {
+          "period": "2008-Q4",
+          "jobs": 642100
+        },
+        {
+          "period": "2009-Q1",
+          "jobs": 629300
+        },
+        {
+          "period": "2009-Q2",
+          "jobs": 622600
+        },
+        {
+          "period": "2009-Q3",
+          "jobs": 624300
+        },
+        {
+          "period": "2009-Q4",
+          "jobs": 598800
+        },
+        {
+          "period": "2010-Q1",
+          "jobs": 572000
+        },
+        {
+          "period": "2010-Q2",
+          "jobs": 565400
+        },
+        {
+          "period": "2010-Q3",
+          "jobs": 544600
+        },
+        {
+          "period": "2010-Q4",
+          "jobs": 519500
+        },
+        {
+          "period": "2011-Q1",
+          "jobs": 511300
+        },
+        {
+          "period": "2011-Q2",
+          "jobs": 492800
+        },
+        {
+          "period": "2011-Q3",
+          "jobs": 471200
+        },
+        {
+          "period": "2011-Q4",
+          "jobs": 443300
+        },
+        {
+          "period": "2012-Q1",
+          "jobs": 416300
+        },
+        {
+          "period": "2012-Q2",
+          "jobs": 403100
+        },
+        {
+          "period": "2012-Q3",
+          "jobs": 402700
+        },
+        {
+          "period": "2012-Q4",
+          "jobs": 377300
+        },
+        {
+          "period": "2013-Q1",
+          "jobs": 360900
+        },
+        {
+          "period": "2013-Q2",
+          "jobs": 350900
+        },
+        {
+          "period": "2013-Q3",
+          "jobs": 353500
+        },
+        {
+          "period": "2013-Q4",
+          "jobs": 338500
+        },
+        {
+          "period": "2014-Q1",
+          "jobs": 344600
+        },
+        {
+          "period": "2014-Q2",
+          "jobs": 348100
+        },
+        {
+          "period": "2014-Q3",
+          "jobs": 351900
+        },
+        {
+          "period": "2014-Q4",
+          "jobs": 351300
+        },
+        {
+          "period": "2015-Q1",
+          "jobs": 339300
+        },
+        {
+          "period": "2015-Q2",
+          "jobs": 350500
+        },
+        {
+          "period": "2015-Q3",
+          "jobs": 350400
+        },
+        {
+          "period": "2015-Q4",
+          "jobs": 341900
+        },
+        {
+          "period": "2016-Q1",
+          "jobs": 343900
+        },
+        {
+          "period": "2016-Q2",
+          "jobs": 363700
+        },
+        {
+          "period": "2016-Q3",
+          "jobs": 360300
+        },
+        {
+          "period": "2016-Q4",
+          "jobs": 346700
+        },
+        {
+          "period": "2017-Q1",
+          "jobs": 344800
+        },
+        {
+          "period": "2017-Q2",
+          "jobs": 360900
+        },
+        {
+          "period": "2017-Q3",
+          "jobs": 361300
+        },
+        {
+          "period": "2017-Q4",
+          "jobs": 341000
+        },
+        {
+          "period": "2018-Q1",
+          "jobs": 341200
+        },
+        {
+          "period": "2018-Q2",
+          "jobs": 352700
+        },
+        {
+          "period": "2018-Q3",
+          "jobs": 363700
+        },
+        {
+          "period": "2018-Q4",
+          "jobs": 358400
+        },
+        {
+          "period": "2019-Q1",
+          "jobs": 348000
+        },
+        {
+          "period": "2019-Q2",
+          "jobs": 364200
+        },
+        {
+          "period": "2019-Q3",
+          "jobs": 359400
+        },
+        {
+          "period": "2019-Q4",
+          "jobs": 359100
+        },
+        {
+          "period": "2020-Q1",
+          "jobs": 337300
+        },
+        {
+          "period": "2020-Q2",
+          "jobs": 331300
+        },
+        {
+          "period": "2020-Q3",
+          "jobs": 353800
+        },
+        {
+          "period": "2020-Q4",
+          "jobs": 353900
+        },
+        {
+          "period": "2021-Q1",
+          "jobs": 348400
+        },
+        {
+          "period": "2021-Q2",
+          "jobs": 356800
+        },
+        {
+          "period": "2021-Q3",
+          "jobs": 384500
+        },
+        {
+          "period": "2021-Q4",
+          "jobs": 384800
+        },
+        {
+          "period": "2022-Q1",
+          "jobs": 387700
+        },
+        {
+          "period": "2022-Q2",
+          "jobs": 388900
+        },
+        {
+          "period": "2022-Q3",
+          "jobs": 387800
+        },
+        {
+          "period": "2022-Q4",
+          "jobs": 386300
+        },
+        {
+          "period": "2023-Q1",
+          "jobs": 396721
+        },
+        {
+          "period": "2023-Q2",
+          "jobs": 394100
+        },
+        {
+          "period": "2023-Q3",
+          "jobs": 399200
+        },
+        {
+          "period": "2023-Q4",
+          "jobs": 407100
+        },
+        {
+          "period": "2024-Q1",
+          "jobs": 420900
+        },
+        {
+          "period": "2024-Q2",
+          "jobs": 417400
+        },
+        {
+          "period": "2024-Q3",
+          "jobs": 417400
+        },
+        {
+          "period": "2024-Q4",
+          "jobs": 413400
+        },
+        {
+          "period": "2025-Q1",
+          "jobs": 399800
+        },
+        {
+          "period": "2025-Q2",
+          "jobs": 412500
+        },
+        {
+          "period": "2025-Q3",
+          "jobs": 423800
+        },
+        {
+          "period": "2025-Q4",
+          "jobs": 430600
+        }
+      ],
+      "yoy_pct": 4.2,
+      "five_year_pct": 21.7,
+      "description": "Skilled manual trades across construction, repair, fabrication, and installation work.",
+      "exposure": 2,
+      "exposure_rationale": "The core value of these occupations is still physical execution, site adaptation, and manual skill, which limits direct AI substitution.",
+      "source_period": "2025-Q4",
+      "url": "https://www.statistics.gr/en/statistics/-/publication/SJO01/-"
+    },
+    {
+      "title": "Plant and machine operators and assembler",
+      "label_el": "Χειριστές εγκαταστάσεων και μηχανημάτων και συναρμολογητές",
+      "slug": "isco-8-operators-and-assemblers",
+      "category": "industrial-and-trades",
+      "isco_major_group": "8",
+      "jobs": 303400,
+      "employment_share": 0.0697,
+      "history": [
+        {
+          "period": "2001-Q1",
+          "jobs": 320900
+        },
+        {
+          "period": "2001-Q2",
+          "jobs": 317600
+        },
+        {
+          "period": "2001-Q3",
+          "jobs": 312000
+        },
+        {
+          "period": "2001-Q4",
+          "jobs": 304400
+        },
+        {
+          "period": "2002-Q1",
+          "jobs": 319400
+        },
+        {
+          "period": "2002-Q2",
+          "jobs": 318400
+        },
+        {
+          "period": "2002-Q3",
+          "jobs": 316300
+        },
+        {
+          "period": "2002-Q4",
+          "jobs": 308400
+        },
+        {
+          "period": "2003-Q1",
+          "jobs": 324600
+        },
+        {
+          "period": "2003-Q2",
+          "jobs": 316300
+        },
+        {
+          "period": "2003-Q3",
+          "jobs": 319100
+        },
+        {
+          "period": "2003-Q4",
+          "jobs": 319300
+        },
+        {
+          "period": "2004-Q1",
+          "jobs": 325100
+        },
+        {
+          "period": "2004-Q2",
+          "jobs": 333600
+        },
+        {
+          "period": "2004-Q3",
+          "jobs": 332300
+        },
+        {
+          "period": "2004-Q4",
+          "jobs": 329300
+        },
+        {
+          "period": "2005-Q1",
+          "jobs": 324600
+        },
+        {
+          "period": "2005-Q2",
+          "jobs": 327300
+        },
+        {
+          "period": "2005-Q3",
+          "jobs": 331400
+        },
+        {
+          "period": "2005-Q4",
+          "jobs": 333100
+        },
+        {
+          "period": "2006-Q1",
+          "jobs": 338500
+        },
+        {
+          "period": "2006-Q2",
+          "jobs": 346300
+        },
+        {
+          "period": "2006-Q3",
+          "jobs": 349400
+        },
+        {
+          "period": "2006-Q4",
+          "jobs": 342500
+        },
+        {
+          "period": "2007-Q1",
+          "jobs": 331900
+        },
+        {
+          "period": "2007-Q2",
+          "jobs": 330800
+        },
+        {
+          "period": "2007-Q3",
+          "jobs": 338400
+        },
+        {
+          "period": "2007-Q4",
+          "jobs": 329800
+        },
+        {
+          "period": "2008-Q1",
+          "jobs": 325500
+        },
+        {
+          "period": "2008-Q2",
+          "jobs": 331000
+        },
+        {
+          "period": "2008-Q3",
+          "jobs": 333700
+        },
+        {
+          "period": "2008-Q4",
+          "jobs": 335900
+        },
+        {
+          "period": "2009-Q1",
+          "jobs": 322100
+        },
+        {
+          "period": "2009-Q2",
+          "jobs": 339000
+        },
+        {
+          "period": "2009-Q3",
+          "jobs": 341500
+        },
+        {
+          "period": "2009-Q4",
+          "jobs": 327400
+        },
+        {
+          "period": "2010-Q1",
+          "jobs": 322600
+        },
+        {
+          "period": "2010-Q2",
+          "jobs": 315500
+        },
+        {
+          "period": "2010-Q3",
+          "jobs": 310400
+        },
+        {
+          "period": "2010-Q4",
+          "jobs": 294600
+        },
+        {
+          "period": "2011-Q1",
+          "jobs": 264500
+        },
+        {
+          "period": "2011-Q2",
+          "jobs": 256700
+        },
+        {
+          "period": "2011-Q3",
+          "jobs": 248900
+        },
+        {
+          "period": "2011-Q4",
+          "jobs": 238000
+        },
+        {
+          "period": "2012-Q1",
+          "jobs": 238500
+        },
+        {
+          "period": "2012-Q2",
+          "jobs": 229700
+        },
+        {
+          "period": "2012-Q3",
+          "jobs": 230800
+        },
+        {
+          "period": "2012-Q4",
+          "jobs": 214100
+        },
+        {
+          "period": "2013-Q1",
+          "jobs": 217000
+        },
+        {
+          "period": "2013-Q2",
+          "jobs": 223800
+        },
+        {
+          "period": "2013-Q3",
+          "jobs": 215200
+        },
+        {
+          "period": "2013-Q4",
+          "jobs": 219600
+        },
+        {
+          "period": "2014-Q1",
+          "jobs": 229800
+        },
+        {
+          "period": "2014-Q2",
+          "jobs": 228600
+        },
+        {
+          "period": "2014-Q3",
+          "jobs": 222000
+        },
+        {
+          "period": "2014-Q4",
+          "jobs": 216900
+        },
+        {
+          "period": "2015-Q1",
+          "jobs": 212100
+        },
+        {
+          "period": "2015-Q2",
+          "jobs": 208600
+        },
+        {
+          "period": "2015-Q3",
+          "jobs": 202000
+        },
+        {
+          "period": "2015-Q4",
+          "jobs": 208100
+        },
+        {
+          "period": "2016-Q1",
+          "jobs": 214200
+        },
+        {
+          "period": "2016-Q2",
+          "jobs": 212700
+        },
+        {
+          "period": "2016-Q3",
+          "jobs": 225600
+        },
+        {
+          "period": "2016-Q4",
+          "jobs": 224700
+        },
+        {
+          "period": "2017-Q1",
+          "jobs": 230500
+        },
+        {
+          "period": "2017-Q2",
+          "jobs": 232000
+        },
+        {
+          "period": "2017-Q3",
+          "jobs": 247700
+        },
+        {
+          "period": "2017-Q4",
+          "jobs": 256000
+        },
+        {
+          "period": "2018-Q1",
+          "jobs": 253700
+        },
+        {
+          "period": "2018-Q2",
+          "jobs": 257300
+        },
+        {
+          "period": "2018-Q3",
+          "jobs": 256700
+        },
+        {
+          "period": "2018-Q4",
+          "jobs": 252600
+        },
+        {
+          "period": "2019-Q1",
+          "jobs": 254000
+        },
+        {
+          "period": "2019-Q2",
+          "jobs": 263100
+        },
+        {
+          "period": "2019-Q3",
+          "jobs": 264800
+        },
+        {
+          "period": "2019-Q4",
+          "jobs": 262300
+        },
+        {
+          "period": "2020-Q1",
+          "jobs": 262100
+        },
+        {
+          "period": "2020-Q2",
+          "jobs": 265400
+        },
+        {
+          "period": "2020-Q3",
+          "jobs": 245600
+        },
+        {
+          "period": "2020-Q4",
+          "jobs": 241200
+        },
+        {
+          "period": "2021-Q1",
+          "jobs": 238700
+        },
+        {
+          "period": "2021-Q2",
+          "jobs": 260100
+        },
+        {
+          "period": "2021-Q3",
+          "jobs": 265300
+        },
+        {
+          "period": "2021-Q4",
+          "jobs": 251700
+        },
+        {
+          "period": "2022-Q1",
+          "jobs": 259000
+        },
+        {
+          "period": "2022-Q2",
+          "jobs": 281900
+        },
+        {
+          "period": "2022-Q3",
+          "jobs": 281000
+        },
+        {
+          "period": "2022-Q4",
+          "jobs": 275700
+        },
+        {
+          "period": "2023-Q1",
+          "jobs": 275041
+        },
+        {
+          "period": "2023-Q2",
+          "jobs": 300600
+        },
+        {
+          "period": "2023-Q3",
+          "jobs": 294400
+        },
+        {
+          "period": "2023-Q4",
+          "jobs": 273000
+        },
+        {
+          "period": "2024-Q1",
+          "jobs": 285300
+        },
+        {
+          "period": "2024-Q2",
+          "jobs": 289900
+        },
+        {
+          "period": "2024-Q3",
+          "jobs": 306900
+        },
+        {
+          "period": "2024-Q4",
+          "jobs": 303600
+        },
+        {
+          "period": "2025-Q1",
+          "jobs": 297400
+        },
+        {
+          "period": "2025-Q2",
+          "jobs": 310800
+        },
+        {
+          "period": "2025-Q3",
+          "jobs": 303000
+        },
+        {
+          "period": "2025-Q4",
+          "jobs": 303400
+        }
+      ],
+      "yoy_pct": -0.1,
+      "five_year_pct": 25.8,
+      "description": "Machine operation, production-line, transport-equipment, and assembly work in industrial settings.",
+      "exposure": 3,
+      "exposure_rationale": "Automation pressure is meaningful, but physical equipment supervision and industrial constraints still keep exposure below office-heavy roles.",
+      "source_period": "2025-Q4",
+      "url": "https://www.statistics.gr/en/statistics/-/publication/SJO01/-"
+    },
+    {
+      "title": "Elementary occupations",
+      "label_el": "Ανειδίκευτες εργασίες",
+      "slug": "isco-9-elementary-occupations",
+      "category": "general-labour",
+      "isco_major_group": "9",
+      "jobs": 320800,
+      "employment_share": 0.0737,
+      "history": [
+        {
+          "period": "2001-Q1",
+          "jobs": 244200
+        },
+        {
+          "period": "2001-Q2",
+          "jobs": 264400
+        },
+        {
+          "period": "2001-Q3",
+          "jobs": 265000
+        },
+        {
+          "period": "2001-Q4",
+          "jobs": 255200
+        },
+        {
+          "period": "2002-Q1",
+          "jobs": 252000
+        },
+        {
+          "period": "2002-Q2",
+          "jobs": 282000
+        },
+        {
+          "period": "2002-Q3",
+          "jobs": 291000
+        },
+        {
+          "period": "2002-Q4",
+          "jobs": 286000
+        },
+        {
+          "period": "2003-Q1",
+          "jobs": 279000
+        },
+        {
+          "period": "2003-Q2",
+          "jobs": 297600
+        },
+        {
+          "period": "2003-Q3",
+          "jobs": 299900
+        },
+        {
+          "period": "2003-Q4",
+          "jobs": 280900
+        },
+        {
+          "period": "2004-Q1",
+          "jobs": 274300
+        },
+        {
+          "period": "2004-Q2",
+          "jobs": 281600
+        },
+        {
+          "period": "2004-Q3",
+          "jobs": 284700
+        },
+        {
+          "period": "2004-Q4",
+          "jobs": 273600
+        },
+        {
+          "period": "2005-Q1",
+          "jobs": 268500
+        },
+        {
+          "period": "2005-Q2",
+          "jobs": 288400
+        },
+        {
+          "period": "2005-Q3",
+          "jobs": 293400
+        },
+        {
+          "period": "2005-Q4",
+          "jobs": 292000
+        },
+        {
+          "period": "2006-Q1",
+          "jobs": 285000
+        },
+        {
+          "period": "2006-Q2",
+          "jobs": 300800
+        },
+        {
+          "period": "2006-Q3",
+          "jobs": 309600
+        },
+        {
+          "period": "2006-Q4",
+          "jobs": 297300
+        },
+        {
+          "period": "2007-Q1",
+          "jobs": 288500
+        },
+        {
+          "period": "2007-Q2",
+          "jobs": 292900
+        },
+        {
+          "period": "2007-Q3",
+          "jobs": 313300
+        },
+        {
+          "period": "2007-Q4",
+          "jobs": 303600
+        },
+        {
+          "period": "2008-Q1",
+          "jobs": 301600
+        },
+        {
+          "period": "2008-Q2",
+          "jobs": 313300
+        },
+        {
+          "period": "2008-Q3",
+          "jobs": 321300
+        },
+        {
+          "period": "2008-Q4",
+          "jobs": 317300
+        },
+        {
+          "period": "2009-Q1",
+          "jobs": 309500
+        },
+        {
+          "period": "2009-Q2",
+          "jobs": 336300
+        },
+        {
+          "period": "2009-Q3",
+          "jobs": 352800
+        },
+        {
+          "period": "2009-Q4",
+          "jobs": 341900
+        },
+        {
+          "period": "2010-Q1",
+          "jobs": 327000
+        },
+        {
+          "period": "2010-Q2",
+          "jobs": 344800
+        },
+        {
+          "period": "2010-Q3",
+          "jobs": 353600
+        },
+        {
+          "period": "2010-Q4",
+          "jobs": 332400
+        },
+        {
+          "period": "2011-Q1",
+          "jobs": 299400
+        },
+        {
+          "period": "2011-Q2",
+          "jobs": 309900
+        },
+        {
+          "period": "2011-Q3",
+          "jobs": 298800
+        },
+        {
+          "period": "2011-Q4",
+          "jobs": 269800
+        },
+        {
+          "period": "2012-Q1",
+          "jobs": 257500
+        },
+        {
+          "period": "2012-Q2",
+          "jobs": 249900
+        },
+        {
+          "period": "2012-Q3",
+          "jobs": 251900
+        },
+        {
+          "period": "2012-Q4",
+          "jobs": 240900
+        },
+        {
+          "period": "2013-Q1",
+          "jobs": 222700
+        },
+        {
+          "period": "2013-Q2",
+          "jobs": 230700
+        },
+        {
+          "period": "2013-Q3",
+          "jobs": 231900
+        },
+        {
+          "period": "2013-Q4",
+          "jobs": 230400
+        },
+        {
+          "period": "2014-Q1",
+          "jobs": 228100
+        },
+        {
+          "period": "2014-Q2",
+          "jobs": 250600
+        },
+        {
+          "period": "2014-Q3",
+          "jobs": 265600
+        },
+        {
+          "period": "2014-Q4",
+          "jobs": 244700
+        },
+        {
+          "period": "2015-Q1",
+          "jobs": 238100
+        },
+        {
+          "period": "2015-Q2",
+          "jobs": 262900
+        },
+        {
+          "period": "2015-Q3",
+          "jobs": 269400
+        },
+        {
+          "period": "2015-Q4",
+          "jobs": 257000
+        },
+        {
+          "period": "2016-Q1",
+          "jobs": 239900
+        },
+        {
+          "period": "2016-Q2",
+          "jobs": 262800
+        },
+        {
+          "period": "2016-Q3",
+          "jobs": 275100
+        },
+        {
+          "period": "2016-Q4",
+          "jobs": 249900
+        },
+        {
+          "period": "2017-Q1",
+          "jobs": 249200
+        },
+        {
+          "period": "2017-Q2",
+          "jobs": 286000
+        },
+        {
+          "period": "2017-Q3",
+          "jobs": 290400
+        },
+        {
+          "period": "2017-Q4",
+          "jobs": 258300
+        },
+        {
+          "period": "2018-Q1",
+          "jobs": 244800
+        },
+        {
+          "period": "2018-Q2",
+          "jobs": 269500
+        },
+        {
+          "period": "2018-Q3",
+          "jobs": 274500
+        },
+        {
+          "period": "2018-Q4",
+          "jobs": 257900
+        },
+        {
+          "period": "2019-Q1",
+          "jobs": 249400
+        },
+        {
+          "period": "2019-Q2",
+          "jobs": 278700
+        },
+        {
+          "period": "2019-Q3",
+          "jobs": 298000
+        },
+        {
+          "period": "2019-Q4",
+          "jobs": 270200
+        },
+        {
+          "period": "2020-Q1",
+          "jobs": 253300
+        },
+        {
+          "period": "2020-Q2",
+          "jobs": 251900
+        },
+        {
+          "period": "2020-Q3",
+          "jobs": 262100
+        },
+        {
+          "period": "2020-Q4",
+          "jobs": 234000
+        },
+        {
+          "period": "2021-Q1",
+          "jobs": 226100
+        },
+        {
+          "period": "2021-Q2",
+          "jobs": 259300
+        },
+        {
+          "period": "2021-Q3",
+          "jobs": 277300
+        },
+        {
+          "period": "2021-Q4",
+          "jobs": 264400
+        },
+        {
+          "period": "2022-Q1",
+          "jobs": 246600
+        },
+        {
+          "period": "2022-Q2",
+          "jobs": 285600
+        },
+        {
+          "period": "2022-Q3",
+          "jobs": 302300
+        },
+        {
+          "period": "2022-Q4",
+          "jobs": 279400
+        },
+        {
+          "period": "2023-Q1",
+          "jobs": 272687
+        },
+        {
+          "period": "2023-Q2",
+          "jobs": 301000
+        },
+        {
+          "period": "2023-Q3",
+          "jobs": 301600
+        },
+        {
+          "period": "2023-Q4",
+          "jobs": 263900
+        },
+        {
+          "period": "2024-Q1",
+          "jobs": 249000
+        },
+        {
+          "period": "2024-Q2",
+          "jobs": 274100
+        },
+        {
+          "period": "2024-Q3",
+          "jobs": 295400
+        },
+        {
+          "period": "2024-Q4",
+          "jobs": 278600
+        },
+        {
+          "period": "2025-Q1",
+          "jobs": 268000
+        },
+        {
+          "period": "2025-Q2",
+          "jobs": 314000
+        },
+        {
+          "period": "2025-Q3",
+          "jobs": 329000
+        },
+        {
+          "period": "2025-Q4",
+          "jobs": 320800
+        }
+      ],
+      "yoy_pct": 15.1,
+      "five_year_pct": 37.1,
+      "description": "Basic manual, support, and low-specialization occupations across many sectors.",
+      "exposure": 2,
+      "exposure_rationale": "Many tasks are repetitive, but they often still require physical execution in the real world rather than purely digital work.",
+      "source_period": "2025-Q4",
+      "url": "https://www.statistics.gr/en/statistics/-/publication/SJO01/-"
+    },
+    {
+      "title": "Other unclassified persons",
+      "label_el": "Λοιπά μη ταξινομημένα άτομα",
+      "slug": "isco-x-unclassified",
+      "category": "other",
+      "isco_major_group": "X",
+      "jobs": 68500,
+      "employment_share": 0.0157,
+      "history": [
+        {
+          "period": "2001-Q1",
+          "jobs": 41000
+        },
+        {
+          "period": "2001-Q2",
+          "jobs": 41400
+        },
+        {
+          "period": "2001-Q3",
+          "jobs": 43300
+        },
+        {
+          "period": "2001-Q4",
+          "jobs": 42500
+        },
+        {
+          "period": "2002-Q1",
+          "jobs": 40400
+        },
+        {
+          "period": "2002-Q2",
+          "jobs": 42800
+        },
+        {
+          "period": "2002-Q3",
+          "jobs": 42100
+        },
+        {
+          "period": "2002-Q4",
+          "jobs": 41400
+        },
+        {
+          "period": "2003-Q1",
+          "jobs": 40800
+        },
+        {
+          "period": "2003-Q2",
+          "jobs": 40400
+        },
+        {
+          "period": "2003-Q3",
+          "jobs": 41700
+        },
+        {
+          "period": "2003-Q4",
+          "jobs": 42600
+        },
+        {
+          "period": "2004-Q1",
+          "jobs": 56100
+        },
+        {
+          "period": "2004-Q2",
+          "jobs": 62400
+        },
+        {
+          "period": "2004-Q3",
+          "jobs": 63400
+        },
+        {
+          "period": "2004-Q4",
+          "jobs": 64400
+        },
+        {
+          "period": "2005-Q1",
+          "jobs": 64000
+        },
+        {
+          "period": "2005-Q2",
+          "jobs": 62300
+        },
+        {
+          "period": "2005-Q3",
+          "jobs": 60500
+        },
+        {
+          "period": "2005-Q4",
+          "jobs": 58700
+        },
+        {
+          "period": "2006-Q1",
+          "jobs": 55900
+        },
+        {
+          "period": "2006-Q2",
+          "jobs": 56500
+        },
+        {
+          "period": "2006-Q3",
+          "jobs": 58000
+        },
+        {
+          "period": "2006-Q4",
+          "jobs": 55800
+        },
+        {
+          "period": "2007-Q1",
+          "jobs": 60500
+        },
+        {
+          "period": "2007-Q2",
+          "jobs": 59500
+        },
+        {
+          "period": "2007-Q3",
+          "jobs": 60600
+        },
+        {
+          "period": "2007-Q4",
+          "jobs": 57800
+        },
+        {
+          "period": "2008-Q1",
+          "jobs": 57000
+        },
+        {
+          "period": "2008-Q2",
+          "jobs": 56500
+        },
+        {
+          "period": "2008-Q3",
+          "jobs": 55300
+        },
+        {
+          "period": "2008-Q4",
+          "jobs": 54600
+        },
+        {
+          "period": "2009-Q1",
+          "jobs": 53200
+        },
+        {
+          "period": "2009-Q2",
+          "jobs": 58300
+        },
+        {
+          "period": "2009-Q3",
+          "jobs": 58700
+        },
+        {
+          "period": "2009-Q4",
+          "jobs": 62400
+        },
+        {
+          "period": "2010-Q1",
+          "jobs": 62700
+        },
+        {
+          "period": "2010-Q2",
+          "jobs": 63500
+        },
+        {
+          "period": "2010-Q3",
+          "jobs": 65000
+        },
+        {
+          "period": "2010-Q4",
+          "jobs": 65100
+        },
+        {
+          "period": "2011-Q1",
+          "jobs": 67500
+        },
+        {
+          "period": "2011-Q2",
+          "jobs": 60700
+        },
+        {
+          "period": "2011-Q3",
+          "jobs": 63800
+        },
+        {
+          "period": "2011-Q4",
+          "jobs": 59800
+        },
+        {
+          "period": "2012-Q1",
+          "jobs": 60300
+        },
+        {
+          "period": "2012-Q2",
+          "jobs": 52600
+        },
+        {
+          "period": "2012-Q3",
+          "jobs": 53700
+        },
+        {
+          "period": "2012-Q4",
+          "jobs": 55600
+        },
+        {
+          "period": "2013-Q1",
+          "jobs": 59300
+        },
+        {
+          "period": "2013-Q2",
+          "jobs": 59600
+        },
+        {
+          "period": "2013-Q3",
+          "jobs": 64200
+        },
+        {
+          "period": "2013-Q4",
+          "jobs": 66000
+        },
+        {
+          "period": "2014-Q1",
+          "jobs": 62200
+        },
+        {
+          "period": "2014-Q2",
+          "jobs": 59100
+        },
+        {
+          "period": "2014-Q3",
+          "jobs": 58900
+        },
+        {
+          "period": "2014-Q4",
+          "jobs": 53800
+        },
+        {
+          "period": "2015-Q1",
+          "jobs": 54000
+        },
+        {
+          "period": "2015-Q2",
+          "jobs": 56300
+        },
+        {
+          "period": "2015-Q3",
+          "jobs": 57900
+        },
+        {
+          "period": "2015-Q4",
+          "jobs": 61000
+        },
+        {
+          "period": "2016-Q1",
+          "jobs": 60400
+        },
+        {
+          "period": "2016-Q2",
+          "jobs": 61600
+        },
+        {
+          "period": "2016-Q3",
+          "jobs": 64800
+        },
+        {
+          "period": "2016-Q4",
+          "jobs": 64500
+        },
+        {
+          "period": "2017-Q1",
+          "jobs": 66300
+        },
+        {
+          "period": "2017-Q2",
+          "jobs": 66700
+        },
+        {
+          "period": "2017-Q3",
+          "jobs": 63200
+        },
+        {
+          "period": "2017-Q4",
+          "jobs": 65700
+        },
+        {
+          "period": "2018-Q1",
+          "jobs": 65800
+        },
+        {
+          "period": "2018-Q2",
+          "jobs": 65200
+        },
+        {
+          "period": "2018-Q3",
+          "jobs": 63200
+        },
+        {
+          "period": "2018-Q4",
+          "jobs": 65200
+        },
+        {
+          "period": "2019-Q1",
+          "jobs": 64300
+        },
+        {
+          "period": "2019-Q2",
+          "jobs": 62400
+        },
+        {
+          "period": "2019-Q3",
+          "jobs": 60000
+        },
+        {
+          "period": "2019-Q4",
+          "jobs": 57500
+        },
+        {
+          "period": "2020-Q1",
+          "jobs": 58900
+        },
+        {
+          "period": "2020-Q2",
+          "jobs": 60600
+        },
+        {
+          "period": "2020-Q3",
+          "jobs": 62800
+        },
+        {
+          "period": "2020-Q4",
+          "jobs": 62000
+        },
+        {
+          "period": "2021-Q1",
+          "jobs": 63000
+        },
+        {
+          "period": "2021-Q2",
+          "jobs": 66200
+        },
+        {
+          "period": "2021-Q3",
+          "jobs": 69900
+        },
+        {
+          "period": "2021-Q4",
+          "jobs": 62100
+        },
+        {
+          "period": "2022-Q1",
+          "jobs": 66100
+        },
+        {
+          "period": "2022-Q2",
+          "jobs": 66100
+        },
+        {
+          "period": "2022-Q3",
+          "jobs": 75700
+        },
+        {
+          "period": "2022-Q4",
+          "jobs": 81400
+        },
+        {
+          "period": "2023-Q1",
+          "jobs": 69274
+        },
+        {
+          "period": "2023-Q2",
+          "jobs": 65500
+        },
+        {
+          "period": "2023-Q3",
+          "jobs": 64500
+        },
+        {
+          "period": "2023-Q4",
+          "jobs": 70500
+        },
+        {
+          "period": "2024-Q1",
+          "jobs": 69500
+        },
+        {
+          "period": "2024-Q2",
+          "jobs": 65800
+        },
+        {
+          "period": "2024-Q3",
+          "jobs": 68100
+        },
+        {
+          "period": "2024-Q4",
+          "jobs": 66700
+        },
+        {
+          "period": "2025-Q1",
+          "jobs": 66000
+        },
+        {
+          "period": "2025-Q2",
+          "jobs": 63400
+        },
+        {
+          "period": "2025-Q3",
+          "jobs": 67600
+        },
+        {
+          "period": "2025-Q4",
+          "jobs": 68500
+        }
+      ],
+      "yoy_pct": 2.7,
+      "five_year_pct": 10.5,
+      "description": "A residual published category for people not assigned to the main occupational group structure.",
+      "exposure": 5,
+      "exposure_rationale": "This is not a coherent occupation family, so any exposure score should be treated only as a neutral placeholder.",
+      "source_period": "2025-Q4",
+      "url": "https://www.statistics.gr/en/statistics/-/publication/SJO01/-"
+    }
+  ],
+  "meta": {
+    "title": "Greece Jobs Explorer",
+    "build_at": "2026-03-19T10:23:45+00:00",
+    "latest_period": "2025-Q4",
+    "source_period": "2025-Q4",
+    "total_employed": 4352400,
+    "total_jobs": 4352400,
+    "unemployment_rate": 8.3,
+    "registered_unemployed": 923853,
+    "registered_unemployment_period": "2026-01",
+    "registered_unemployed_over_12_months": 417293,
+    "registered_unemployed_under_12_months": 506560,
+    "top_registered_unemployment_regions": [
+      {
+        "region": "ΑΤΤΙΚΗ",
+        "registered_over_12_months": 144486,
+        "registered_under_12_months": 122969,
+        "registered_total": 267455
+      },
+      {
+        "region": "ΚΡΗΤΗ",
+        "registered_over_12_months": 16394,
+        "registered_under_12_months": 60230,
+        "registered_total": 76624
+      },
+      {
+        "region": "ΔΥΤΙΚΗ ΕΛΛΑΔΑ",
+        "registered_over_12_months": 36598,
+        "registered_under_12_months": 32399,
+        "registered_total": 68997
+      },
+      {
+        "region": "ΘΕΣΣΑΛΙΑ",
+        "registered_over_12_months": 29133,
+        "registered_under_12_months": 28601,
+        "registered_total": 57734
+      },
+      {
+        "region": "ΝΟΤΙΟ ΑΙΓΑΙΟ",
+        "registered_over_12_months": 8298,
+        "registered_under_12_months": 48651,
+        "registered_total": 56949
+      }
+    ],
+    "vacancies_total": 31059,
+    "vacancies_period": "2025-Q4",
+    "top_vacancy_sectors": [
+      {
+        "code": "P",
+        "label": "Education",
+        "vacancies": 6871
+      },
+      {
+        "code": "Q",
+        "label": "Human health and social work activities",
+        "vacancies": 3853
+      },
+      {
+        "code": "C",
+        "label": "Manufacturing",
+        "vacancies": 3474
+      },
+      {
+        "code": "G",
+        "label": "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "vacancies": 3312
+      },
+      {
+        "code": "O",
+        "label": "Public administration and defence; compulsory social security",
+        "vacancies": 3084
+      }
+    ],
+    "ergani_latest_report": {
+      "label": "Δεκέμβριος 2025",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2026/02/12.-ERGANH-ΔΕΚΕΜΒΡΙΟΣ-2025.doc",
+      "year": 2025,
+      "month": 12,
+      "kind": "monthly_report"
+    },
+    "ergani_latest_monthly_report": {
+      "label": "Δεκέμβριος 2025",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2026/02/12.-ERGANH-ΔΕΚΕΜΒΡΙΟΣ-2025.doc",
+      "year": 2025,
+      "month": 12,
+      "kind": "monthly_report"
+    },
+    "ergani_latest_special_issue": {
+      "label": "Ειδικό Τεύχος 2025",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2026/02/EIDIKO-TEYXOS-2025.doc",
+      "year": 2025,
+      "month": null,
+      "kind": "special_issue"
+    },
+    "ergani_parsing_status": "parsed_latest_report",
+    "private_sector_monthly_balance": -14524,
+    "private_sector_monthly_hires": 231834,
+    "private_sector_monthly_departures": 246358,
+    "private_sector_annual_balance": 77074,
+    "private_sector_final_annual_balance": 76708,
+    "sources": {
+      "lfs": {
+        "publication_url": "https://www.statistics.gr/en/statistics/-/publication/SJO01/-",
+        "occupation_series_label": "04. Persons employed 15+ (one-digit groups of individual occupations) (1st Quarter 2001 - 4th Quarter 2025)",
+        "occupation_series_url": "https://www.statistics.gr:443/en/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=3&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_documentID=115984&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_locale=en",
+        "totals_series_label": "01. Population 15+ (employment status (Greece, total)) (1st Quarter 2001 - 4th Quarter 2025)",
+        "totals_series_url": "https://www.statistics.gr:443/en/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=3&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_documentID=115982&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_locale=en"
+      },
+      "vacancies": {
+        "publication_url": "https://www.statistics.gr/en/statistics/-/publication/SJO41/-",
+        "table_label": "Table 1. Job Vacancies to be filled in immediately, by economic activity section (Nace Rev.2) (1st Quarter 2023 - 4th Quarter 2025)",
+        "table_url": "https://www.statistics.gr:443/en/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=3&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_documentID=542438&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_locale=en"
+      },
+      "dypa": {
+        "page_url": "https://www.dypa.gov.gr/statistika",
+        "table_label": "Στοιχεία ανέργων και επιδοτούμενων",
+        "table_url": "https://www.dypa.gov.gr/storage/statistika-stoikheia/pinakes-ianuariu-2026.xlsx"
+      },
+      "ergani": {
+        "page_url": "https://ypergasias.gov.gr/apascholisi/ektheseis-p-s-ergani/"
+      }
+    },
+    "summary": {
+      "total_jobs": 4352400,
+      "source_period": "2025-Q4"
+    }
+  }
+}

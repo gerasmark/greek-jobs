@@ -1,0 +1,1194 @@
+{
+  "source": {
+    "page_url": "https://ypergasias.gov.gr/apascholisi/ektheseis-p-s-ergani/"
+  },
+  "latest_report": {
+    "label": "Δεκέμβριος 2025",
+    "url": "https://ypergasias.gov.gr/wp-content/uploads/2026/02/12.-ERGANH-ΔΕΚΕΜΒΡΙΟΣ-2025.doc",
+    "year": 2025,
+    "month": 12,
+    "kind": "monthly_report"
+  },
+  "latest_monthly_report": {
+    "label": "Δεκέμβριος 2025",
+    "url": "https://ypergasias.gov.gr/wp-content/uploads/2026/02/12.-ERGANH-ΔΕΚΕΜΒΡΙΟΣ-2025.doc",
+    "year": 2025,
+    "month": 12,
+    "kind": "monthly_report"
+  },
+  "latest_special_issue": {
+    "label": "Ειδικό Τεύχος 2025",
+    "url": "https://ypergasias.gov.gr/wp-content/uploads/2026/02/EIDIKO-TEYXOS-2025.doc",
+    "year": 2025,
+    "month": null,
+    "kind": "special_issue"
+  },
+  "latest_report_parsed": {
+    "status": "parsed",
+    "path": "/home/user/Documents/playground/data/raw/ergani/12.-ERGANH-ΔΕΚΕΜΒΡΙΟΣ-2025.doc",
+    "format": ".doc",
+    "metrics": {
+      "monthly_balance": -14524,
+      "monthly_hires": 231834,
+      "monthly_departures": 246358,
+      "voluntary_departures": 77035,
+      "dismissals_and_expiries": 169323,
+      "previous_year_same_month_balance": -14218,
+      "annual_balance": 77074,
+      "annual_hires": 3383976,
+      "annual_departures": 3306902,
+      "final_annual_balance_with_manual_submissions": 76708
+    }
+  },
+  "reports": [
+    {
+      "label": "Ιανουάριος 2025",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2025/03/1.-ERGANH-ΙΑΝΟΥΑΡΙΟΣ-2025.doc",
+      "year": 2025,
+      "month": 1,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Φεβρουάριος 2025",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2025/03/2.-ERGANH-ΦΕΒΡΟΥΑΡΙΟΣ-2025.doc",
+      "year": 2025,
+      "month": 2,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάρτιος 2025",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2025/04/3.-ERGANH-ΜΑΡΤΙΟΣ-2025.doc",
+      "year": 2025,
+      "month": 3,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Απρίλιος 2025",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2025/06/4-ERGANH-ΑΠΡΙΛΙΟΣ-2025.doc",
+      "year": 2025,
+      "month": 4,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάιος 2025",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2025/07/ERGANH-ΜΑΙΟΣ-2025.pdf",
+      "year": 2025,
+      "month": 5,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούνιος 2025",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2025/07/6.-ERGANH-ΙΟΥΝΙΟΣ-2025.doc",
+      "year": 2025,
+      "month": 6,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούλιος 2025",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2025/09/7.-ERGANH-ΙΟΥΛΙΟΣ-2025-1.docx",
+      "year": 2025,
+      "month": 7,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Αύγουστος 2025",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2025/10/8.-ERGANH-AYGOYSTOS-2025.pdf",
+      "year": 2025,
+      "month": 8,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Σεπτέμβριος 2025",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2025/10/9.-ERGANH-ΣΕΠΤΕΜΒΡΙΟΣ-2025.doc",
+      "year": 2025,
+      "month": 9,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Οκτώβριος 2025",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2025/11/10.-ERGANH-ΟΚΤΩΒΡΙΟΣ-2025.doc",
+      "year": 2025,
+      "month": 10,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Νοέμβριος 2025",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2026/02/11.-ERGANH-ΝΟΕΜΒΡΙΟΣ-2025.doc",
+      "year": 2025,
+      "month": 11,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Δεκέμβριος 2025",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2026/02/12.-ERGANH-ΔΕΚΕΜΒΡΙΟΣ-2025.doc",
+      "year": 2025,
+      "month": 12,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ειδικό Τεύχος 2025",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2026/02/EIDIKO-TEYXOS-2025.doc",
+      "year": 2025,
+      "month": null,
+      "kind": "special_issue"
+    },
+    {
+      "label": "Ιανουάριος 2024",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2024/02/1.-ERGANH-ΙΑΝΟΥΑΡΙΟΣ-2024.doc",
+      "year": 2024,
+      "month": 1,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Φεβρουάριος 2024",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2024/03/2.-ERGANH-ΦΕΒΡΟΥΑΡΙΟΣ-2024.doc",
+      "year": 2024,
+      "month": 2,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάρτιος 2024",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2024/04/3.-ERGANH-ΜΑΡΤΙΟΣ-2024.doc",
+      "year": 2024,
+      "month": 3,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Απρίλιος 2024",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2024/05/4.-ERGANH-ΑΠΡΙΛΙΟΣ-2024-DRAFT.doc",
+      "year": 2024,
+      "month": 4,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάιος 2024",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2024/09/5.-ERGANH-ΜΑΙΟΣ-2024-DRAFT.doc",
+      "year": 2024,
+      "month": 5,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούνιος 2024",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2024/07/6.-ERGANH-ΙΟΥΝΙΟΣ-2024.doc",
+      "year": 2024,
+      "month": 6,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούλιος 2024",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2024/10/7.-ERGANH-ΙΟΥΛΙΟΣ-2024-1.doc",
+      "year": 2024,
+      "month": 7,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Αύγουστος 2024",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2024/10/8.-ERGANH-AYGOYSTOS-2024-1.doc",
+      "year": 2024,
+      "month": 8,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Σεπτέμβριος 2024",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2024/11/9.-ERGANH-ΣΕΠΤΕΜΒΡΙΟΣ_-2024.doc",
+      "year": 2024,
+      "month": 9,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Οκτώβριος 2024",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2024/12/10.-ERGANH-ΟΚΤΩΒΡΙΟΣ-2024.docx",
+      "year": 2024,
+      "month": 10,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Νοέμβριος 2024",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2025/02/11.-ERGANH-ΝΟΕΜΒΡΙΟΣ-2024.doc",
+      "year": 2024,
+      "month": 11,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ειδικό τεύχος 2024",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2025/02/ΕΤΗΣΙΑ-ΕΚΘΕΣΗ-ΕΡΓΑΝΗ-2024.pdf",
+      "year": 2024,
+      "month": null,
+      "kind": "special_issue"
+    },
+    {
+      "label": "Ιανουάριος 2023",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2023/02/1.-ERGANH-ΙΑΝΟΥΑΡΙΟΣ-2023.pdf",
+      "year": 2023,
+      "month": 1,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Φεβρουάριος 2023",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2023/04/2.-ERGANH-ΦΕΒΡΟΥΑΡΙΟΣ-2023.pdf",
+      "year": 2023,
+      "month": 2,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάρτιος 2023",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2023/04/3.-ERGANH-ΜΑΡΤΙΟΣ-2023.pdf",
+      "year": 2023,
+      "month": 3,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Απρίλιος 2023",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2023/05/4.-ERGANH-ΑΠΡΙΛΙΟΣ-2023.pdf",
+      "year": 2023,
+      "month": 4,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάϊος 2023",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2023/07/5.-ERGANH-ΜΑΙΟΣ-2023-2.doc",
+      "year": 2023,
+      "month": 5,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούνιος 2023",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2023/07/6.-ERGANH-ΙΟΥΝΙΟΣ-2023.doc",
+      "year": 2023,
+      "month": 6,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούλιος 2023",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2023/09/7.-ERGANH-ΙΟΥΛΙΟΣ-2023.doc",
+      "year": 2023,
+      "month": 7,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Αύγουστος 2023",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2023/09/8.-ERGANH-AYGOYSTOS-2023.doc",
+      "year": 2023,
+      "month": 8,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Σεπτέμβριος 2023",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2023/12/9.-ERGANH-ΣΕΠΤΕΜΒΡΙΟΣ_-2023.doc",
+      "year": 2023,
+      "month": 9,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Οκτώβριος 2023",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2023/12/10.-ERGANH-ΟΚΤΩΒΡΙΟΣ-2023.doc",
+      "year": 2023,
+      "month": 10,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Νοέμβριος 2023",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2024/01/11.-ERGANH-ΝΟΕΜΒΡΙΟΣ-2023.doc",
+      "year": 2023,
+      "month": 11,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Δεκέμβριος 2023",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2024/01/12.-ERGANH-ΔΕΚΕΜΒΡΙΟΣ-2023.pdf",
+      "year": 2023,
+      "month": 12,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ειδικό Τεύχος 2023",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2024/02/ΕΙΔΙΚΟ-ΤΕΥΧΟΣ-2023.pdf",
+      "year": 2023,
+      "month": null,
+      "kind": "special_issue"
+    },
+    {
+      "label": "Ιανουάριος 2022",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2022/02/1.-ΕΡΓΑΝΗ-ΙΑΝΟΥΑΡΙΟΣ-2022.pdf",
+      "year": 2022,
+      "month": 1,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Φεβρουάριος 2022",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2022/03/2.-ΕΡΓΑΝΗ-ΦΕΒΡΟΥΑΡΙΟΣ-2022.pdf",
+      "year": 2022,
+      "month": 2,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάρτιος 2022",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2022/04/3.-ΜΑΡΤΙΟΣ-2022.pdf",
+      "year": 2022,
+      "month": 3,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Απρίλιος 2022",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2022/05/4.-ΕΡΓΑΝΗ-ΑΠΡΙΛΙΟΣ-2022.pdf",
+      "year": 2022,
+      "month": 4,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάιος 2022",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2022/06/5.-ΕΡΓΑΝΗ-ΜΑΙΟΣ-2022.pdf",
+      "year": 2022,
+      "month": 5,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούνιος 2022",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2022/07/6.-ΕΡΓΑΝΗ-ΙΟΥΝΙΟΣ-2022.pdf",
+      "year": 2022,
+      "month": 6,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούλιος 2022",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2022/08/7.-%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%99%CE%9F%CE%A5%CE%9B%CE%99%CE%9F%CE%A3-2022-.pdf",
+      "year": 2022,
+      "month": 7,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Αύγουστος 2022",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2022/09/8.-ΕΡΓΑΝΗ-ΑΥΓΟΥΣΤΟΣ-2022.pdf",
+      "year": 2022,
+      "month": 8,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Σεπτέμβριος 2022",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2022/10/9.-ΕΡΓΑΝΗ-ΣΕΠΤΕΜΒΡΙΟΣ-2022.pdf",
+      "year": 2022,
+      "month": 9,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Οκτώβριος 2022",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2022/12/10.-ERGANH-ΟΚΤΩΒΡΙΟΣ-2022.pdf",
+      "year": 2022,
+      "month": 10,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Νοέμβριος 2022",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2022/12/11.-ERGANH-ΝΟΕΜΒΡΙΟΣ-2022.pdf",
+      "year": 2022,
+      "month": 11,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Δεκέμβριος 2022",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2023/01/12.-ERGANH-ΔΕΚΕΜΒΡΙΟΣ-2022.pdf",
+      "year": 2022,
+      "month": 12,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιανουάριος 2021",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/1.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%99%CE%91%CE%9D%CE%9F%CE%A5%CE%91%CE%A1%CE%99%CE%9F%CE%A3-2021.pdf",
+      "year": 2021,
+      "month": 1,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Φεβρουάριος 2021",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2021/03/ΕΡΓΑΝΗ-ΦΕΒΡΟΥΑΡΙΟΣ-2021.pdf",
+      "year": 2021,
+      "month": 2,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάρτιος 2021",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2021/05/ΕΡΓΑΝΗ_2021_03.pdf",
+      "year": 2021,
+      "month": 3,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Απρίλιος 2021",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2021/05/ΕΡΓΑΝΗ_2021_04.pdf",
+      "year": 2021,
+      "month": 4,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάιος 2021",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2021/06/5.-ΕΡΓΑΝΗ-ΜΑΙΟΣ-2021.pdf",
+      "year": 2021,
+      "month": 5,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούνιος 2021",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2021/07/6.-ΕΡΓΑΝΗ-ΙΟΥΝΙΟΣ-2021.pdf",
+      "year": 2021,
+      "month": 6,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούλιος 2021",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2021/08/7.-ΕΡΓΑΝΗ-ΙΟΥΛΙΟΣ-2021.pdf",
+      "year": 2021,
+      "month": 7,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Αύγουστος 2021",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2021/09/08.2021_ΕΡΓΑΝΗ.pdf",
+      "year": 2021,
+      "month": 8,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Σεπτέμβριος 2021",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2021/10/9.2021-ΕΡΓΑΝΗ-ΣΕΠΤΕΜΒΡΙΟΣ.pdf",
+      "year": 2021,
+      "month": 9,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Οκτώβριος 2021",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2021/11/10.-ΕΡΓΑΝΗ-ΟΚΤΩΒΡΙΟΣ-2021.pdf",
+      "year": 2021,
+      "month": 10,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Νοέμβριος 2021",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2021/12/12.ΕΡΓΑΝΗ-ΝΟΕΜΒΡΙΟΣ-2021.pdf",
+      "year": 2021,
+      "month": 11,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Δεκέμβριος 2021",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2022/01/12.-ΕΡΓΑΝΗ-ΔΕΚΕΜΒΡΙΟΣ-2021-.pdf",
+      "year": 2021,
+      "month": 12,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιανουάριος 2020",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/1.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%99%CE%91%CE%9D%CE%9F%CE%A5%CE%91%CE%A1%CE%99%CE%9F%CE%A3-2020.pdf",
+      "year": 2020,
+      "month": 1,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Φεβρουάριος 2020",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/2.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%A6%CE%95%CE%92%CE%A1%CE%9F%CE%A5%CE%91%CE%A1%CE%99%CE%9F%CE%A3-2020.pdf",
+      "year": 2020,
+      "month": 2,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάρτιος 2020",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/3.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%9C%CE%91%CE%A1%CE%A4%CE%99%CE%9F%CE%A3-2020.pdf",
+      "year": 2020,
+      "month": 3,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Απρίλιος 2020",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/4.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%91%CE%A0%CE%A1%CE%99%CE%9B%CE%99%CE%9F%CE%A3-2020.pdf",
+      "year": 2020,
+      "month": 4,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάιος 2020",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/5.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%9C%CE%91%CE%AA%CE%9F%CE%A3-2020.pdf",
+      "year": 2020,
+      "month": 5,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούνιος 2020",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/6.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%99%CE%9F%CE%A5%CE%9D%CE%99%CE%9F%CE%A3-2020.pdf",
+      "year": 2020,
+      "month": 6,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούλιος 2020",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/7.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%99%CE%9F%CE%A5%CE%9B%CE%99%CE%9F%CE%A3-2020.pdf",
+      "year": 2020,
+      "month": 7,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Αύγουστος 2020",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/8.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%91%CE%A5%CE%93%CE%9F%CE%A5%CE%A3%CE%A4%CE%9F%CE%A3-2020.pdf",
+      "year": 2020,
+      "month": 8,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Σεπτέμβριος 2020",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/9.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%A3%CE%95%CE%A0%CE%A4%CE%95%CE%9C%CE%92%CE%A1%CE%99%CE%9F%CE%A3-2020.pdf",
+      "year": 2020,
+      "month": 9,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Οκτώβριος 2020",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/10.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%9F%CE%9A%CE%A4%CE%A9%CE%92%CE%A1%CE%99%CE%9F%CE%A3-2020.pdf",
+      "year": 2020,
+      "month": 10,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Νοέμβριος 2020",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/11.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%9D%CE%9F%CE%95%CE%9C%CE%92%CE%A1%CE%99%CE%9F%CE%A3-2020.pdf",
+      "year": 2020,
+      "month": 11,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Δεκέμβριος 2020",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/12.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%94%CE%95%CE%9A%CE%95%CE%9C%CE%92%CE%A1%CE%99%CE%9F%CE%A3-2020.pdf",
+      "year": 2020,
+      "month": 12,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιανουάριος 2019",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/1.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%99%CE%91%CE%9D%CE%9F%CE%A5%CE%91%CE%A1%CE%99%CE%9F%CE%A3-2019.pdf",
+      "year": 2019,
+      "month": 1,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Φεβρουάριος 2019",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/2.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%A6%CE%95%CE%92%CE%A1%CE%9F%CE%A5%CE%91%CE%A1%CE%99%CE%9F%CE%A3-2019.pdf",
+      "year": 2019,
+      "month": 2,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάρτιος 2019",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/3.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%9C%CE%91%CE%A1%CE%A4%CE%99%CE%9F%CE%A3-2019.pdf",
+      "year": 2019,
+      "month": 3,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Απρίλιος 2019",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/4.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%91%CE%A0%CE%A1%CE%99%CE%9B%CE%99%CE%9F%CE%A3-2019.pdf",
+      "year": 2019,
+      "month": 4,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάιος 2019",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/5.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%9C%CE%91%CE%AA%CE%9F%CE%A3-2019.pdf",
+      "year": 2019,
+      "month": 5,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούνιος 2019",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/6.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%99%CE%9F%CE%A5%CE%9D%CE%99%CE%9F%CE%A3-2019.pdf",
+      "year": 2019,
+      "month": 6,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούλιος 2019",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/7.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%99%CE%9F%CE%A5%CE%9B%CE%99%CE%9F%CE%A3-2019.pdf",
+      "year": 2019,
+      "month": 7,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Αύγουστος 2019",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/8.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%91%CE%A5%CE%93%CE%9F%CE%A5%CE%A3%CE%A4%CE%9F%CE%A3-2019.pdf",
+      "year": 2019,
+      "month": 8,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Σεπτέμβριος 2019",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/11.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%9D%CE%9F%CE%95%CE%9C%CE%92%CE%A1%CE%99%CE%9F%CE%A3-2019.pdf",
+      "year": 2019,
+      "month": 9,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Οκτώβριος 2019",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/10.-ERGANH-%CE%9F%CE%9A%CE%A4%CE%A9%CE%92%CE%A1%CE%99%CE%9F%CE%A3-2019.pdf",
+      "year": 2019,
+      "month": 10,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Νοέμβριος 2019",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/11.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%9D%CE%9F%CE%95%CE%9C%CE%92%CE%A1%CE%99%CE%9F%CE%A3-2019.pdf",
+      "year": 2019,
+      "month": 11,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Οκτώβριος – Νοέμβριος 2019 (Ειδικό τεύχος)",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2023/09/ΕΙΔΙΚΟ-ΤΕΥΧΟΣ-2019.pdf",
+      "year": 2019,
+      "month": 11,
+      "kind": "special_issue"
+    },
+    {
+      "label": "Δεκέμβριος 2019",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/12.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%94%CE%95%CE%9A%CE%95%CE%9C%CE%92%CE%A1%CE%99%CE%9F%CE%A3-2019.pdf",
+      "year": 2019,
+      "month": 12,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιανουάριος 2018",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/1.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%99%CE%91%CE%9D%CE%9F%CE%A5%CE%91%CE%A1%CE%99%CE%9F%CE%A3-2018.pdf",
+      "year": 2018,
+      "month": 1,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Φεβρουάριος 2018",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2018-02.pdf",
+      "year": 2018,
+      "month": 2,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάρτιος 2018",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/3.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%9C%CE%91%CE%A1%CE%A4%CE%99%CE%9F%CE%A3-2018.pdf",
+      "year": 2018,
+      "month": 3,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Απρίλιος 2018",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2018-04.pdf",
+      "year": 2018,
+      "month": 4,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάιος 2018",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/5.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%9C%CE%91%CE%AA%CE%9F%CE%A3-2018.pdf",
+      "year": 2018,
+      "month": 5,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούνιος 2018",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/6.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%99%CE%9F%CE%A5%CE%9D%CE%99%CE%9F%CE%A3-2018.pdf",
+      "year": 2018,
+      "month": 6,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούλιος 2018",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/7.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%99%CE%9F%CE%A5%CE%9B%CE%99%CE%9F%CE%A3-2018.pdf",
+      "year": 2018,
+      "month": 7,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Αύγουστος 2018",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2018-08.pdf",
+      "year": 2018,
+      "month": 8,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Σεπτέμβριος 2018",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/9.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%A3%CE%95%CE%A0%CE%A4%CE%95%CE%9C%CE%92%CE%A1%CE%99%CE%9F%CE%A3-2018.pdf",
+      "year": 2018,
+      "month": 9,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Οκτώβριος 2018",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/10.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%9F%CE%9A%CE%A4%CE%A9%CE%92%CE%A1%CE%99%CE%9F%CE%A3-2018.pdf",
+      "year": 2018,
+      "month": 10,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Οκτώβριος 2018 (Ειδικό τεύχος)",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2023/09/ΕΙΔΙΚΟ-ΤΕΥΧΟΣ-2018.pdf",
+      "year": 2018,
+      "month": 10,
+      "kind": "special_issue"
+    },
+    {
+      "label": "Νοέμβριος 2018",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/11.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%9D%CE%9F%CE%95%CE%9C%CE%92%CE%A1%CE%99%CE%9F%CE%A3-2018.pdf",
+      "year": 2018,
+      "month": 11,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Δεκέμβριος 2018",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/12.%CE%95%CE%A1%CE%93%CE%91%CE%9D%CE%97-%CE%94%CE%95%CE%9A%CE%95%CE%9C%CE%92%CE%A1%CE%99%CE%9F%CE%A3-2018.pdf",
+      "year": 2018,
+      "month": 12,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιανουάριος 2017",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2017-01.pdf",
+      "year": 2017,
+      "month": 1,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Φεβρουάριος 2017",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2017-02.pdf",
+      "year": 2017,
+      "month": 2,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάρτιος 2017",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2017-04.pdf",
+      "year": 2017,
+      "month": 3,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Απρίλιος 2017",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2017-04.pdf",
+      "year": 2017,
+      "month": 4,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάιος 2017",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2017-05.pdf",
+      "year": 2017,
+      "month": 5,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούνιος 2017",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2017-06.pdf",
+      "year": 2017,
+      "month": 6,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούλιος 2017",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2017-12.pdf",
+      "year": 2017,
+      "month": 7,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Αύγουστος 2017",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2017-08.pdf",
+      "year": 2017,
+      "month": 8,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Σεπτέμβριος 2017",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2017-09.pdf",
+      "year": 2017,
+      "month": 9,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Οκτώβριος 2017",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2017-12.pdf",
+      "year": 2017,
+      "month": 10,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Οκτώβριος 2017 (Ειδικό τεύχος)",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2023/09/ΕΙΔΙΚΟ-ΤΕΥΧΟΣ-2017.pdf",
+      "year": 2017,
+      "month": 10,
+      "kind": "special_issue"
+    },
+    {
+      "label": "Νοέμβριος 2017",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2017-11.pdf",
+      "year": 2017,
+      "month": 11,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Δεκέμβριος 2017",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2017-12.pdf",
+      "year": 2017,
+      "month": 12,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιανουάριος 2016",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2016-01.pdf",
+      "year": 2016,
+      "month": 1,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Φεβρουάριος 2016",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2016-02.pdf",
+      "year": 2016,
+      "month": 2,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάρτιος 2016",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2016-03.pdf",
+      "year": 2016,
+      "month": 3,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Απρίλιος 2016",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2016-04.pdf",
+      "year": 2016,
+      "month": 4,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάιος 2016",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2016-05.pdf",
+      "year": 2016,
+      "month": 5,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούνιος 2016",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2016-06.pdf",
+      "year": 2016,
+      "month": 6,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούλιος 2016",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2016-07.pdf",
+      "year": 2016,
+      "month": 7,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Αύγουστος 2016",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2016-08.pdf",
+      "year": 2016,
+      "month": 8,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Σεπτέμβριος 2016",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2016-10_EIDIKO_TEYXOS.pdf",
+      "year": 2016,
+      "month": 9,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Οκτώβριος 2016 (Ειδικό Τεύχος)",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2016-10_EIDIKO_TEYXOS.pdf",
+      "year": 2016,
+      "month": 10,
+      "kind": "special_issue"
+    },
+    {
+      "label": "Οκτώβριος 2016",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2016-10.pdf",
+      "year": 2016,
+      "month": 10,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Νοέμβριος 2016",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2016-12.pdf",
+      "year": 2016,
+      "month": 11,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Δεκέμβριος 2016",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2016-12.pdf",
+      "year": 2016,
+      "month": 12,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιανουάριος 2015",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2015-01.pdf",
+      "year": 2015,
+      "month": 1,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Φεβρουάριος 2015",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2015-02.pdf",
+      "year": 2015,
+      "month": 2,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάρτιος 2015",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2015-03.pdf",
+      "year": 2015,
+      "month": 3,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Απρίλιος 2015",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2015-04.pdf",
+      "year": 2015,
+      "month": 4,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάιος 2015",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2015-05.pdf",
+      "year": 2015,
+      "month": 5,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούνιος 2015",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2015-06.pdf",
+      "year": 2015,
+      "month": 6,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούλιος 2015",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2015-07.pdf",
+      "year": 2015,
+      "month": 7,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Αύγουστος 2015",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2015-08.pdf",
+      "year": 2015,
+      "month": 8,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Σεπτέμβριος 2015",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2015-09.pdf",
+      "year": 2015,
+      "month": 9,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Οκτώβριος 2015 (Ειδικό Τεύχος)",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2015-10_EIDIKO_TEYXOS.pdf",
+      "year": 2015,
+      "month": 10,
+      "kind": "special_issue"
+    },
+    {
+      "label": "Οκτώβριος 2015",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2015-10.pdf",
+      "year": 2015,
+      "month": 10,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Νοέμβριος 2015",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2015-12.pdf",
+      "year": 2015,
+      "month": 11,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Δεκέμβριος 2015",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2015-12.pdf",
+      "year": 2015,
+      "month": 12,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιανουάριος 2014",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2014-01.pdf",
+      "year": 2014,
+      "month": 1,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Φεβρουάριος 2014",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2014-02.pdf",
+      "year": 2014,
+      "month": 2,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάρτιος 2014",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2014-03.pdf",
+      "year": 2014,
+      "month": 3,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Απρίλιος 2014",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2014-04.pdf",
+      "year": 2014,
+      "month": 4,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάιος 2014",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2014-05.pdf",
+      "year": 2014,
+      "month": 5,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούνιος 2014",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2014-05.pdf",
+      "year": 2014,
+      "month": 6,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούλιος 2014",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2014-08_%CE%91%CE%A0%CE%9F%CE%A4%CE%95%CE%9B%CE%95%CE%A3%CE%9C%CE%91%CE%A4%CE%91-%CE%A3%CE%A4%CE%9F%CE%A7%CE%95%CE%A5%CE%9C%CE%95%CE%9D%CE%A9%CE%9D-%CE%95%CE%9B%CE%95%CE%93%CE%A7%CE%A9%CE%9D.pdf",
+      "year": 2014,
+      "month": 7,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Αύγουστος 2014 (Στοχευμένοι έλεγχοι για την αδήλωτη εργασία)",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2014-11.pdf",
+      "year": 2014,
+      "month": 8,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Αύγουστος 2014",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2014-11.pdf",
+      "year": 2014,
+      "month": 8,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Σεπτέμβριος 2014",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2014-11.pdf",
+      "year": 2014,
+      "month": 9,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Οκτώβριος 2014 (Ειδικό Τεύχος)",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2014-11.pdf",
+      "year": 2014,
+      "month": 10,
+      "kind": "special_issue"
+    },
+    {
+      "label": "Οκτώβριος 2014",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2014-12.pdf",
+      "year": 2014,
+      "month": 10,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Νοέμβριος 2014",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2014-11.pdf",
+      "year": 2014,
+      "month": 11,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Δεκέμβριος 2014",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2014-12.pdf",
+      "year": 2014,
+      "month": 12,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάρτιος 2013",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2013-03.pdf",
+      "year": 2013,
+      "month": 3,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Απρίλιος 2013",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2013-04.pdf",
+      "year": 2013,
+      "month": 4,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Μάιος 2013",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2013-05.pdf",
+      "year": 2013,
+      "month": 5,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούνιος 2013",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2013-06.pdf",
+      "year": 2013,
+      "month": 6,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Ιούλιος 2013",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2013-07.pdf",
+      "year": 2013,
+      "month": 7,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Αύγουστος 2013",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2013-08.pdf",
+      "year": 2013,
+      "month": 8,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Σεπτέμβριος 2013",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2013-09.pdf",
+      "year": 2013,
+      "month": 9,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Οκτώβριος 2013",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2013-10.pdf",
+      "year": 2013,
+      "month": 10,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Νοέμβριος 2013",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2013-11.pdf",
+      "year": 2013,
+      "month": 11,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Δεκέμβριος 2013",
+      "url": "http://ypergasias.gov.gr/wp-content/uploads/2021/02/ERGANH_2013-12.pdf",
+      "year": 2013,
+      "month": 12,
+      "kind": "monthly_report"
+    },
+    {
+      "label": "Δεκέμβριος 2013 (Ειδικό τεύχος)",
+      "url": "https://ypergasias.gov.gr/wp-content/uploads/2023/09/EIDIKO-TEYXOS-2013.pdf",
+      "year": 2013,
+      "month": 12,
+      "kind": "special_issue"
+    }
+  ],
+  "parsing_status": "parsed_latest_report"
+}

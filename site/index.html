@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#f8f4ea">
+  <title>Χάρτης επαγγελμάτων στην Ελλάδα</title>
+  <script>
+    (() => {
+      const storageKey = "jobs-map-theme";
+      const systemPrefersDark = typeof window.matchMedia === "function"
+        && window.matchMedia("(prefers-color-scheme: dark)").matches;
+      let theme = systemPrefersDark ? "dark" : "light";
+
+      try {
+        const storedTheme = localStorage.getItem(storageKey);
+        if (storedTheme === "dark" || storedTheme === "light") {
+          theme = storedTheme;
+        }
+      } catch {
+        // Storage access can fail in privacy-restricted contexts.
+      }
+
+      document.documentElement.dataset.theme = theme;
+      document.documentElement.style.colorScheme = theme;
+      document.documentElement.classList.toggle("theme-dark", theme === "dark");
+      document.documentElement.classList.toggle("theme-light", theme !== "dark");
+      const themeColorMeta = document.querySelector('meta[name="theme-color"]');
+      if (themeColorMeta) {
+        themeColorMeta.setAttribute("content", theme === "dark" ? "#0b1014" : "#f8f4ea");
+      }
+    })();
+  </script>
+  <link rel="stylesheet" href="styles.css?v=20260320a">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="site-header">
+      <p class="eyebrow">Ελλάδα • αγορά εργασίας • τεκμηρίωση πηγών</p>
+      <div class="hero">
+        <div class="hero-copy">
+          <h1>Χάρτης επαγγελμάτων στην Ελλάδα</h1>
+          <p class="lede">
+            Διαδραστική αποτύπωση των κύριων ομάδων επαγγελμάτων στην Ελλάδα. Το εμβαδό κάθε πλακιδίου ακολουθεί
+            την απασχόληση, ενώ το χρώμα εναλλάσσεται ανάμεσα στη μεταβολή απασχόλησης και την εκτιμώμενη έκθεση
+            σε AI. Το frontend διαβάζει απευθείας το <code>site/data.json</code> και αξιοποιεί το
+            <code>site/_meta.json</code> για περιόδους, επίσημες πηγές και βοηθητικά στοιχεία.
+          </p>
+        </div>
+        <div class="hero-meta" id="heroMeta">
+          <div class="control-stack">
+            <div class="control-group">
+              <span class="control-label">Θέμα</span>
+              <button type="button" class="theme-button" id="themeButton" aria-pressed="false">Σκούρο θέμα: κλειστό</button>
+            </div>
+            <div class="control-group">
+              <span class="control-label">Χρωματισμός</span>
+              <div class="mode-toggle" id="modeToggle" aria-label="Χρωματική λειτουργία">
+                <button type="button" class="is-active" data-mode="change">Μεταβολή απασχόλησης</button>
+                <button type="button" data-mode="exposure">Έκθεση σε AI</button>
+              </div>
+            </div>
+          </div>
+          <div class="legend" aria-live="polite">
+            <span id="legendLow">Πτώση</span>
+            <div class="legend-gradient" id="legendGradient"></div>
+            <span id="legendHigh">Άνοδος</span>
+          </div>
+        </div>
+      </div>
+
+      <section class="stats-grid" id="statsGrid" aria-label="Βασικά μεγέθη"></section>
+
+      <section class="source-strip" aria-label="Σύνοψη πηγών">
+        <div class="source-strip-head">
+          <div>
+            <h2>Πηγές και φρεσκάδα δεδομένων</h2>
+            <p>
+              Το frontend δείχνει όχι μόνο τα μεγέθη αλλά και από πού προέρχονται, ποια περίοδο καλύπτουν
+              και τι λείπει ακόμη από την επεξεργασία.
+            </p>
+          </div>
+        </div>
+        <div class="source-grid" id="sourceGrid"></div>
+      </section>
+
+      <details class="methodology">
+        <summary>Μεθοδολογία και συμβόλαιο δεδομένων</summary>
+        <div class="methodology-body">
+          <p>
+            Η σελίδα περιμένει κάθε record να εκθέτει πεδία όπως <code>title</code>, <code>label_el</code>,
+            <code>category</code>, <code>jobs</code>, <code>employment_share</code>, <code>yoy_pct</code>,
+            <code>five_year_pct</code>, <code>history</code>, <code>description</code>, <code>exposure</code>,
+            <code>exposure_rationale</code>, <code>source_period</code> και <code>url</code>.
+          </p>
+          <p>
+            Αν υπάρχει <code>_meta.json</code> ή ενσωματωμένο metadata block, η εφαρμογή το χρησιμοποιεί για
+            συνοπτικά μεγέθη, περιόδους και source links. Αν λείπει, υπολογίζει totals, σταθμισμένους μέσους
+            όρους και την τελευταία διαθέσιμη περίοδο από το <code>data.json</code>.
+          </p>
+        </div>
+      </details>
+    </header>
+
+    <main class="layout">
+      <section class="treemap-panel">
+        <div class="panel-head">
+          <div>
+            <h2>Treemap επαγγελμάτων</h2>
+            <p id="panelSubline">Φόρτωση εγγραφών…</p>
+          </div>
+          <p class="panel-note">Επιλέξτε πλακίδιο ή στοιχείο λίστας για να κλειδώσετε τις λεπτομέρειες.</p>
+        </div>
+
+        <div class="canvas-shell" id="canvasShell">
+          <canvas id="treemapCanvas" aria-label="Treemap ελληνικών επαγγελματικών ομάδων"></canvas>
+          <div class="canvas-state" id="canvasState" aria-live="polite">Φόρτωση δεδομένων…</div>
+        </div>
+
+        <div class="record-list-wrap">
+          <div class="record-list-head">
+            <h3>Όλες οι ομάδες</h3>
+            <p>Η λίστα είναι ταξινομημένη κατά απασχόληση και λειτουργεί ως εναλλακτική πλοήγηση.</p>
+          </div>
+          <div class="record-list" id="recordList" role="list"></div>
+        </div>
+      </section>
+
+      <aside class="detail-panel" id="detailPanel" aria-live="polite">
+        <div class="detail-empty">Επιλέξτε μια ομάδα για να δείτε τις λεπτομέρειες.</div>
+      </aside>
+    </main>
+  </div>
+
+  <div class="tooltip" id="tooltip" hidden></div>
+
+  <noscript>
+    <div class="noscript-banner">Η σελίδα χρειάζεται JavaScript για να φορτώσει το <code>site/data.json</code> και να σχεδιάσει το treemap.</div>
+  </noscript>
+
+  <script type="module" src="app.js?v=20260320a"></script>
+</body>
+</html>

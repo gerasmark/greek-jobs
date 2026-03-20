@@ -1,0 +1,127 @@
+{
+  "title": "Greece Jobs Explorer",
+  "build_at": "2026-03-19T10:23:45+00:00",
+  "latest_period": "2025-Q4",
+  "source_period": "2025-Q4",
+  "total_employed": 4352400,
+  "total_jobs": 4352400,
+  "unemployment_rate": 8.3,
+  "registered_unemployed": 923853,
+  "registered_unemployment_period": "2026-01",
+  "registered_unemployed_over_12_months": 417293,
+  "registered_unemployed_under_12_months": 506560,
+  "top_registered_unemployment_regions": [
+    {
+      "region": "ΑΤΤΙΚΗ",
+      "registered_over_12_months": 144486,
+      "registered_under_12_months": 122969,
+      "registered_total": 267455
+    },
+    {
+      "region": "ΚΡΗΤΗ",
+      "registered_over_12_months": 16394,
+      "registered_under_12_months": 60230,
+      "registered_total": 76624
+    },
+    {
+      "region": "ΔΥΤΙΚΗ ΕΛΛΑΔΑ",
+      "registered_over_12_months": 36598,
+      "registered_under_12_months": 32399,
+      "registered_total": 68997
+    },
+    {
+      "region": "ΘΕΣΣΑΛΙΑ",
+      "registered_over_12_months": 29133,
+      "registered_under_12_months": 28601,
+      "registered_total": 57734
+    },
+    {
+      "region": "ΝΟΤΙΟ ΑΙΓΑΙΟ",
+      "registered_over_12_months": 8298,
+      "registered_under_12_months": 48651,
+      "registered_total": 56949
+    }
+  ],
+  "vacancies_total": 31059,
+  "vacancies_period": "2025-Q4",
+  "top_vacancy_sectors": [
+    {
+      "code": "P",
+      "label": "Education",
+      "vacancies": 6871
+    },
+    {
+      "code": "Q",
+      "label": "Human health and social work activities",
+      "vacancies": 3853
+    },
+    {
+      "code": "C",
+      "label": "Manufacturing",
+      "vacancies": 3474
+    },
+    {
+      "code": "G",
+      "label": "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+      "vacancies": 3312
+    },
+    {
+      "code": "O",
+      "label": "Public administration and defence; compulsory social security",
+      "vacancies": 3084
+    }
+  ],
+  "ergani_latest_report": {
+    "label": "Δεκέμβριος 2025",
+    "url": "https://ypergasias.gov.gr/wp-content/uploads/2026/02/12.-ERGANH-ΔΕΚΕΜΒΡΙΟΣ-2025.doc",
+    "year": 2025,
+    "month": 12,
+    "kind": "monthly_report"
+  },
+  "ergani_latest_monthly_report": {
+    "label": "Δεκέμβριος 2025",
+    "url": "https://ypergasias.gov.gr/wp-content/uploads/2026/02/12.-ERGANH-ΔΕΚΕΜΒΡΙΟΣ-2025.doc",
+    "year": 2025,
+    "month": 12,
+    "kind": "monthly_report"
+  },
+  "ergani_latest_special_issue": {
+    "label": "Ειδικό Τεύχος 2025",
+    "url": "https://ypergasias.gov.gr/wp-content/uploads/2026/02/EIDIKO-TEYXOS-2025.doc",
+    "year": 2025,
+    "month": null,
+    "kind": "special_issue"
+  },
+  "ergani_parsing_status": "parsed_latest_report",
+  "private_sector_monthly_balance": -14524,
+  "private_sector_monthly_hires": 231834,
+  "private_sector_monthly_departures": 246358,
+  "private_sector_annual_balance": 77074,
+  "private_sector_final_annual_balance": 76708,
+  "sources": {
+    "lfs": {
+      "publication_url": "https://www.statistics.gr/en/statistics/-/publication/SJO01/-",
+      "occupation_series_label": "04. Persons employed 15+ (one-digit groups of individual occupations) (1st Quarter 2001 - 4th Quarter 2025)",
+      "occupation_series_url": "https://www.statistics.gr:443/en/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=3&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_documentID=115984&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_locale=en",
+      "totals_series_label": "01. Population 15+ (employment status (Greece, total)) (1st Quarter 2001 - 4th Quarter 2025)",
+      "totals_series_url": "https://www.statistics.gr:443/en/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=3&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_documentID=115982&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_locale=en"
+    },
+    "vacancies": {
+      "publication_url": "https://www.statistics.gr/en/statistics/-/publication/SJO41/-",
+      "table_label": "Table 1. Job Vacancies to be filled in immediately, by economic activity section (Nace Rev.2) (1st Quarter 2023 - 4th Quarter 2025)",
+      "table_url": "https://www.statistics.gr:443/en/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=3&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_documentID=542438&_documents_WAR_publicationsportlet_INSTANCE_Mr0GiQJSgPHd_locale=en"
+    },
+    "dypa": {
+      "page_url": "https://www.dypa.gov.gr/statistika",
+      "table_label": "Στοιχεία ανέργων και επιδοτούμενων",
+      "table_url": "https://www.dypa.gov.gr/storage/statistika-stoikheia/pinakes-ianuariu-2026.xlsx"
+    },
+    "ergani": {
+      "page_url": "https://ypergasias.gov.gr/apascholisi/ektheseis-p-s-ergani/"
+    }
+  },
+  "summary": {
+    "total_jobs": 4352400,
+    "source_period": "2025-Q4"
+  }
+}
