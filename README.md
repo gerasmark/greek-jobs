@@ -2,6 +2,16 @@
 
 A Greece-first labour-market explorer inspired by `karpathy/jobs`, but built around Greek official sources instead of the US BLS.
 
+## Preview
+
+Main dashboard overview:
+
+![Homepage overview](docs/images/homepage-overview.png)
+
+Treemap and occupation detail view:
+
+![Treemap and occupation detail view](docs/images/treemap-detail.png)
+
 ## What is implemented
 
 - Live ELSTAT Labour Force Survey ingestion for employment totals and occupation-group history
